@@ -72,6 +72,7 @@ Java was a big hype and is still wide spread. It is no "deadend" yet, but declin
 I just don't know if XSLT is a programming language or a data format. I never liked it. It was way too verbose, it was complicated to write. It was not a real programming language and simple things got complicated soon.
 I am happy to see XLST going: http://sotagtrends.com/?tags=[xslt]
 
+Perl vs Python: http://sotagtrends.com/?tags=[perl,python]
 
 # Linux on the desktop.
 
