@@ -60,6 +60,12 @@ Alternative to the (source code) version-control system git. Git has won. Altern
 
 OpenStack: http://sotagtrends.com/?tags=[openstack]
 
+# Programming languages
+
+Low-level languages like assembly, C, C++ are the building blocks of higher level languages. But the usage of these languages is in decline or constant low. Here in comparison with Python: http://sotagtrends.com/?tags=[assembly,c,c%2B%2B,python]
+
+Java was a big hype and is still wide spread. It is no "deadend" yet, but declinging: http://sotagtrends.com/?tags=[python,java]
+
 # Hardware
 
 Ubuntu-Phone. Don't ask me why Mark Shuttleworth ever thought this will be a success. https://en.wikipedia.org/wiki/Ubuntu_Touch
