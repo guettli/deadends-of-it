@@ -51,6 +51,9 @@ Emacs: I used this text editor 14 years daily (2001-2015). I switched to PyCharm
 
 zsh: Alternative to the bash shell (linux command line langauge). I was very interested at the beginning. But finally, you do not gain much. The bash is the default shell, and for me it does not make much sense to use a different shell. http://sotagtrends.com/?tags=[zsh,bash]
 
+Alternative to the (source code) version-control system git. Git has won. Alternatives do not make sense any more. http://sotagtrends.com/?tags=[git,mercurial,bazaar,svn]
+
+
 # Hardware
 
 Ubuntu-Phone. Don't ask me why Mark Shuttleworth ever thought this will be a success. https://en.wikipedia.org/wiki/Ubuntu_Touch
