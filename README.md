@@ -19,6 +19,11 @@ that get stored in your personal $HOME directory get synced with DropBox, Nextcl
 Same for WebDAV. 
 http://sotagtrends.com/?tags=[nfs,webdav]
 
+Owncloud (ownCloud is a suite of client–server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox) was great some months ago. I switched to nextcloud like most other users:
+
+http://sotagtrends.com/?tags=[owncloud,nextcloud]
+
+
 # API Data Exchange
 
 Corba was a big hype some years ago. AFAIK it does not get used for new projects any more.
