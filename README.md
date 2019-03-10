@@ -60,6 +60,9 @@ Alternative to the (source code) version-control system git. Git has won. Altern
 
 OpenStack: http://sotagtrends.com/?tags=[openstack]
 
+Desktop office: MS-Office, Libreoffice. These programms were very important in the past. Today most people learned, that you can write the text directly into the mail body. You do not need to add a ms-word document to the mail. 
+http://sotagtrends.com/?tags=[ms-office,libreoffice]
+
 # Programming languages
 
 Low-level languages like assembly, C, C++ are the building blocks of higher level languages. But the usage of these languages is in decline or constant low. Here in comparison with Python: http://sotagtrends.com/?tags=[assembly,c,c%2B%2B,python]
