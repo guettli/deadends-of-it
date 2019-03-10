@@ -69,6 +69,18 @@ Low-level languages like assembly, C, C++ are the building blocks of higher leve
 
 Java was a big hype and is still wide spread. It is no "deadend" yet, but declinging: http://sotagtrends.com/?tags=[python,java]
 
+# Linux on the desktop.
+
+Some overambitious friends of open source software and open data formats thought you need to switch from Microsoft Windows to Linux as soon as possible. Like the LiMux Project in the year 2005:
+
+> LiMux was a project by the city of Munich in Germany to migrate local government software systems from closed-source, proprietary Microsoft products to free and open-source software. The project ran from 2005 to 2013, migrating over 18,000 personal computers and laptops of public employees to a Linux-based software solution.
+
+See: https://en.wikipedia.org/wiki/LiMux
+
+I think they did a major mistake: It would have been much simpler, and more successfull, if they would have done several small steps, instead of one big step. First step for me would be to switch from closed source to open source application, but stay on MS-Windows operating system. The LiMux project wanted too much too soon (Linux on the desktop). The LiMux project failed.
+
+https://en.wikipedia.org/wiki/LiMux
+
 # Hardware
 
 Ubuntu-Phone. Don't ask me why Mark Shuttleworth ever thought this will be a success. https://en.wikipedia.org/wiki/Ubuntu_Touch
