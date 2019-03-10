@@ -53,6 +53,7 @@ zsh: Alternative to the bash shell (linux command line langauge). I was very int
 
 Alternative to the (source code) version-control system git. Git has won. Alternatives do not make sense any more. http://sotagtrends.com/?tags=[git,mercurial,bazaar,svn]
 
+OpenStack: http://sotagtrends.com/?tags=[openstack]
 
 # Hardware
 
