@@ -86,6 +86,8 @@ I think they did a major mistake: It would have been much simpler, and more succ
 
 https://en.wikipedia.org/wiki/LiMux
 
+Today, every desktop usage is decreasing. Mobile interfaces get used.
+
 # Hardware
 
 Ubuntu-Phone. Don't ask me why Mark Shuttleworth ever thought this will be a success. https://en.wikipedia.org/wiki/Ubuntu_Touch
