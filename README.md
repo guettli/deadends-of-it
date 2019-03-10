@@ -64,3 +64,7 @@ OpenStack: http://sotagtrends.com/?tags=[openstack]
 
 Ubuntu-Phone. Don't ask me why Mark Shuttleworth ever thought this will be a success. https://en.wikipedia.org/wiki/Ubuntu_Touch
 
+# Configuration Management
+
+Chef and Puppet (the older ones) and Ansible and Salt where the new ones. In 2013 it was not clear who will win the race. Today in 2019 it is clear. Ansible has won: http://sotagtrends.com/?tags=[salt-stack,ansible,chef,puppet]
+
