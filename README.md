@@ -69,6 +69,10 @@ Low-level languages like assembly, C, C++ are the building blocks of higher leve
 
 Java was a big hype and is still wide spread. It is no "deadend" yet, but declinging: http://sotagtrends.com/?tags=[python,java]
 
+I just don't know if XSLT is a programming language or a data format. I never liked it. It was way too verbose, it was complicated to write. It was not a real programming language and simple things got complicated soon.
+I am happy to see XLST going: http://sotagtrends.com/?tags=[xslt]
+
+
 # Linux on the desktop.
 
 Some overambitious friends of open source software and open data formats thought you need to switch from Microsoft Windows to Linux as soon as possible. Like the LiMux Project in the year 2005:
