@@ -77,7 +77,7 @@ I am happy to see XLST going: http://sotagtrends.com/?tags=[xslt]
 
 Perl vs Python: http://sotagtrends.com/?tags=[perl,python]
 
-C# vs Python: http://sotagtrends.com/?tags=[c%23,python]
+C# vs Ruby vs Python: http://sotagtrends.com/?tags=[c%23,python,ruby]
 
 # Linux on the desktop.
 
