@@ -63,6 +63,9 @@ OpenStack: http://sotagtrends.com/?tags=[openstack]
 Desktop office: MS-Office, Libreoffice. These programms were very important in the past. Today most people learned, that you can write the text directly into the mail body. You do not need to add a ms-word document to the mail. 
 http://sotagtrends.com/?tags=[ms-office,libreoffice]
 
+KDE "The K desktop environment" was very wide spread (at least in germany) for some years. But gnome has not much more traffic: http://sotagtrends.com/?tags=[kde,gnome]
+
+
 # Programming languages
 
 Low-level languages like assembly, C, C++ are the building blocks of higher level languages. But the usage of these languages is in decline or constant low. Here in comparison with Python: http://sotagtrends.com/?tags=[assembly,c,c%2B%2B,python]
@@ -73,6 +76,8 @@ I just don't know if XSLT is a programming language or a data format. I never li
 I am happy to see XLST going: http://sotagtrends.com/?tags=[xslt]
 
 Perl vs Python: http://sotagtrends.com/?tags=[perl,python]
+
+C# vs Python: http://sotagtrends.com/?tags=[c%23,python]
 
 # Linux on the desktop.
 
@@ -95,4 +100,19 @@ Ubuntu-Phone. Don't ask me why Mark Shuttleworth ever thought this will be a suc
 # Configuration Management
 
 Chef and Puppet (the older ones) and Ansible and Salt where the new ones. In 2013 it was not clear who will win the race. Today in 2019 it is clear. Ansible has won: http://sotagtrends.com/?tags=[salt-stack,ansible,chef,puppet]
+
+# Backup
+
+Of course making backup of data is still done often and makes sense. But it gets done less often.
+
+mobile devices: My wife, my son and I wo do not backup our mobile phones. I guess most people do it like this. The device does not store important data that is not stored somewhere else. The device contains contacts, calendars, some documents shared via nextcloud. Mails are stored on the mail server. 
+
+At work I do no backup of linux laptop. Software I write gets pushed to a central server every day.
+
+See the trend: http://sotagtrends.com/?tags=[backup]
+
+# Mailing lists
+
+I the past I used mailing lists a lot. But today I use StackOverflow and other sites from StackExchange. And a few google groups. I am only subscribed to a few mailing lists today.
+
 
