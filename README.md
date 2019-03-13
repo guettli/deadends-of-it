@@ -116,3 +116,16 @@ See the trend: http://sotagtrends.com/?tags=[backup]
 I the past I used mailing lists a lot. But today I use StackOverflow and other sites from StackExchange. And a few google groups. I am only subscribed to a few mailing lists today.
 
 
+# Markup Languages
+
+I think markup languages have lost. Once upon a time. Markup languages like  reStructuredText were used to create documentation
+which can be compiled to HTML or PDF. Who prints docs today? I don't know anybody who prints docs today.
+
+HTML is the future. There are easy to use HTML online editors like CKEditor. 
+
+HTML gives two distinct groups of people all that they want. Geeks can write HTML directly and use all feature it offers. And CKEditor gives non-geeks a way to create formated text.
+
+Markup languages are on the downward trend.
+
+Most of them go down. Markdown still goes a bit up: http://sotagtrends.com/?tags=[sphinx,restructuredtext,markdown,mediawiki]
+
