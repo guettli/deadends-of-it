@@ -129,3 +129,15 @@ Markup languages are on the downward trend.
 
 Most of them go down. Markdown still goes a bit up: http://sotagtrends.com/?tags=[sphinx,restructuredtext,markdown,mediawiki]
 
+# Inotify
+
+Inotify is a nice feature of the linux kernel. You can listen for changes in directories. If there is a change (for example a new file), then
+you get an event and you can execute some custom code (for example process the new file).
+
+I once thought inotify is great. 
+
+Time has changed.
+
+Now I know: the file system is not an API.
+
+Today I prefer http.
