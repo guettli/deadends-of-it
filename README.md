@@ -118,7 +118,7 @@ I the past I used mailing lists a lot. But today I use StackOverflow and other s
 
 # Markup Languages
 
-I think markup languages have lost. Once upon a time. Markup languages like  reStructuredText were used to create documentation
+I think markup languages have lost - except html. Once upon a time Markup languages like  reStructuredText were used to create documentation
 which can be compiled to HTML or PDF. Who prints docs today? I don't know anybody who prints docs today.
 
 HTML is the future. There are easy to use HTML online editors like CKEditor. 
