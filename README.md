@@ -129,7 +129,7 @@ Markup languages are on the downward trend.
 
 Most of them go down. Markdown still goes a bit up: http://sotagtrends.com/?tags=[sphinx,restructuredtext,markdown,mediawiki]
 
-Same for Latex.
+Same for Latex. The need for printable documentation is falling.
 
 # Inotify
 
