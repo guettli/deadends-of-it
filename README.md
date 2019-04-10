@@ -129,6 +129,8 @@ Markup languages are on the downward trend.
 
 Most of them go down. Markdown still goes a bit up: http://sotagtrends.com/?tags=[sphinx,restructuredtext,markdown,mediawiki]
 
+Same for Latex.
+
 # Inotify
 
 Inotify is a nice feature of the linux kernel. You can listen for changes in directories. If there is a change (for example a new file), then
