@@ -148,7 +148,7 @@ Today I prefer http.
 
 Decision-makers prefer to pay for service offered by big well-known giants. They do not like to pay a human which does the job.
 
-This google trend chars shows it: Microsoft-Exchange (mail server for windows) and Postfix (mail server for linux) are in decline. Configuring mail servers is not easy. If you are young and you are unsure what you want to do in the future? Do not consider to get a mail admin. This job is in decline:
+This google trend chars shows it: Microsoft-Exchange (mail server for windows) and Postfix (mail server for linux) are in decline. Configuring mail servers is not easy. Especially handling spam is daily work and annoyance. If you are young and you are unsure what you want to do in the future? Do not consider to get a mail admin. This job is in decline:
 
 https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02js54,%2Fm%2F04nh2c
 
