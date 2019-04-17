@@ -152,4 +152,6 @@ This google trend chars shows it: Microsoft-Exchange (mail server for windows) a
 
 https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02js54,%2Fm%2F04nh2c
 
+People do not use native GUI mail user agents (like for example thunderbird) less. They use the web interface of big mail providers more.
+
 
