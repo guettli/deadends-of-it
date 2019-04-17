@@ -143,3 +143,13 @@ Time has changed.
 Now I know: the file system is not an API.
 
 Today I prefer http.
+
+# Mail admin - a declining job
+
+Decision-makers prefer to pay for service offered by big well-known giants. They do not like to pay a human which does the job.
+
+This google trend chars shows it: Microsoft-Exchange and Postfix are in decline. Configuring mail servers is not easy. If you are young and you are unsure what you want to do in the future? Do not consider to get a mail admin. This job is in decline:
+
+https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02js54,%2Fm%2F04nh2c
+
+
