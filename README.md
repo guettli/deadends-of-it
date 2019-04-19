@@ -74,7 +74,7 @@ KDE "The K desktop environment" was very wide spread (at least in germany) for s
 
 Low-level languages like assembly, C, C++ are the building blocks of higher level languages. But the usage of these languages is in decline or constant low. Here in comparison with Python: http://sotagtrends.com/?tags=[assembly,c,c%2B%2B,python]
 
-Java was a big hype and is still wide spread. It is no "deadend" yet, but declinging: http://sotagtrends.com/?tags=[python,java]
+Java was a big hype and is still wide spread. It is no "deadend" yet, but declining: http://sotagtrends.com/?tags=[python,java]
 
 I just don't know if XSLT is a programming language or a data format. I never liked it. It was way too verbose, it was complicated to write. It was not a real programming language and simple things got complicated soon.
 I am happy to see XLST going: http://sotagtrends.com/?tags=[xslt]
