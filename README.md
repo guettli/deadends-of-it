@@ -24,7 +24,9 @@ Owncloud (ownCloud is a suite of client–server software for creating and using
 http://sotagtrends.com/?tags=[owncloud,nextcloud]
 
 
-# API Data Exchange
+# API and Data Exchange
+
+## Corba
 
 Corba was a big hype some years ago. AFAIK it does not get used for new projects any more.
 
@@ -34,6 +36,8 @@ Corba gave you references to remote objects. Sounds great at the beginning. But 
 And simpler is better than "wow".
 
 http://sotagtrends.com/?tags=[corba]
+
+## SOAP
 
 From Wikipedia: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP) or Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission. 
 
