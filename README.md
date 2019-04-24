@@ -170,7 +170,7 @@ But I found no answer to the question "why?" which convinced me. In the year 200
 I thought to myself "I don't get why a microkernel should be better than a modular
 kernel like linux".
 
-Now, in the year 2019 I think there are no real arguments pro microkernel. Nice theory, but performance is much more important. Practical real world applications use several operating systems today. Fault toleranz gets handled at a differen level today.
+Now, in the year 2019 I think there are no real arguments pro microkernel. Nice theory, but performance is much more important. Practical real world applications use several operating systems today. Fault tolerance gets handled at a different level today.
 
 But there are micro kernel based operating systems like: https://genode.org/
 
