@@ -156,10 +156,20 @@ This google trend chars shows it: Microsoft-Exchange (mail server for windows) a
 
 https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02js54,%2Fm%2F04nh2c
 
-People do not use native GUI mail user agents (like for example thunderbird) less. They use the web interface of big mail providers more.
+People do use native GUI mail user agents (like for example thunderbird) less often. They use the web interface of big mail providers more.
 
 Maybe this trend is good. I had to explain the difference between an envelope-from to the body-from already several times to people who were responsible for a mail server. This difference seems to be too much for the average windows admin. See: https://en.wikipedia.org/wiki/Bounce_address
 
+But today handling mail is more than managing a smtp and imap server. For most users mail, spam filtering, calendar, contacts, sending and accepting invitations via mail, cloud storage and ... all is one thing.
+
+Who influences the future of (mail) admins? The people how pay them. And most decision makers prefer to pay for a service which has a reliable support even on weekends. The admin wants a weekend and he wants holiday and sometimes he is ill. Be honest with yourself: If you would be the decision-maker, it is sad but true, you would choose the service, not the human.
+
+And that's why I think in the future there will be less (mail) admins. Companies with less then 200 accounts will buy a service. Only big companies will run their own infrastructure. 
+
+Of course there needs to someone for the hardware. But the server hardware will leave the small companies, moving to big companies providing cheap software as a service. No need to care for backup, too. Doesn't this feel like flying?
+
+
+Sooner or later automation will eat all jobs.
 
 # microkernel
 
