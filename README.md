@@ -188,7 +188,7 @@ But there are micro kernel based operating systems like: https://genode.org/
 
 When I bought my first reflex camera (Canon 50D) most friends which already had a reflex camera told me that is great because you can make photos in the raw image format. This raw format contains much more information and this is much, much better for post-processing.
 
-I sill like my reflex camera, but I never liked the raw format. Yes, the post-processing possiblities are great. But the size is major drawback. And the time you need to do the post-processing.
+I still like my reflex camera (it is ten years old now), but I never liked the raw format. Yes, the post-processing possiblities are great. But the size is major drawback. And the time you need to do the post-processing.
 
 I asked some of my friends some days ago again. None of them still use the raw image format by default today. They all use jpeg. It is simpler, more convenient.
 
