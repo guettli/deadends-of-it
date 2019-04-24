@@ -161,3 +161,17 @@ People do not use native GUI mail user agents (like for example thunderbird) les
 Maybe this trend is good. I had to explain the difference between an envelope-from to the body-from already several times to people who were responsible for a mail server. This difference seems to be too much for the average windows admin. See: https://en.wikipedia.org/wiki/Bounce_address
 
 
+# microkernel
+
+In the year 2000 when I was a student (HTW Dresden) I was very curious about
+micro kernels. At TU-Dresden there were projects working on a micro kernel based
+operating system. I loved to talk with people involved in the micro kernel projects.
+But I found no answer to the question "why?" which convinced me. In the year 2000
+I thought to myself "I don't get why a microkernel should be better than a modular
+kernel like linux".
+
+Now, in the year 2019 I think there are no real arguments pro microkernel. Nice theory, but performance is much more important. And practical real world applications of several operating systems today. Fault toleranz gets handled at a differen level today.
+
+
+
+
