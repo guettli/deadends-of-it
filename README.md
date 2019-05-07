@@ -111,9 +111,11 @@ Chef and Puppet (the older ones) and Ansible and Salt where the new ones. In 201
 
 Of course making backup of data is still done often and makes sense. But it gets done less often.
 
-mobile devices: My wife, my son and I wo do not backup our mobile phones. I guess most people do it like this. The device does not store important data that is not stored somewhere else. The device contains contacts, calendars, some documents shared via nextcloud. Mails are stored on the mail server. 
+mobile devices: My wife, my son and I, we do not backup our mobile phones. I guess most people do it like this. The device does not store important data that is not stored somewhere else. The device contains contacts, calendars, some documents shared via nextcloud. Mails are stored on the mail server. 
 
-At work I do no backup of linux laptop. Software I write gets pushed to a central server every day.
+Of course it will be very annoying if the mobile device would get lost or broken. It will be a lot of work to configure the new device. But no important data would get lost.
+
+At work I do no backup of linux laptop. Software I write gets pushed to a central git server every day.
 
 See the trend: http://sotagtrends.com/?tags=[backup]
 
