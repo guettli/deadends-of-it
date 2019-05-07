@@ -209,3 +209,12 @@ The High availability method "One master, N secondary slaves" with failover was 
 Today High availablity get's handled different: Multi-Master replication https://en.wikipedia.org/wiki/Multi-master_replication
 
 The trends show how it does decline: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0b1yt5
+
+# Browser Plugins (Java Applets, Flash)
+
+Java Applets running in the web browser are dead: https://trends.google.com/trends/explore?date=all&q=java%20applets
+
+Same for Adobe Flash Player: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05qh6g
+
+In the year 2001, when I finished my study, I never thought the trend will be like this. In the beginning, the language JavaScript was not taken seriously. Today JavaScript is even running on the server.
+
