@@ -8,6 +8,8 @@ Here is list of things I have seen going. Some former hypes, some things that ne
 
 "All we are is dust in the wind" (Songwriter: Kerry Livgren)
 
+## Native GUI development
+
 GUI development: gtk and qt: http://sotagtrends.com/?tags=[gtk,qt]
 
 ## Network File Systems
