@@ -193,3 +193,19 @@ I still like my reflex camera (it is ten years old now), but I never liked the r
 I asked some of my friends some days ago again. None of them still use the raw image format by default today. They all use jpeg. It is simpler, more convenient.
 
 Of course there are professional photographers who use the raw format daily. That's not what I talk about. I look at the everday use case of an average human who likes to take pictures.
+
+# DRBD
+
+> DRBD is a distributed replicated storage system for the Linux platform. It is implemented as a kernel driver, several userspace management applications, and some shell scripts. DRBD is traditionally used in high availability (HA) computer clusters, but beginning with DRBD version 9, it can also be used to create larger software defined storage pools with a focus on cloud integration.
+
+Source: https://en.wikipedia.org/wiki/Distributed_Replicated_Block_Device
+
+DRBD is not dead, but it does decline.
+
+The High availability method "One master, N secondary slaves" with failover was popular in the past.
+
+Today High availablity get's handled different.
+
+Multi-Master replication https://en.wikipedia.org/wiki/Multi-master_replication
+
+The trends show how it does https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0b1yt5
