@@ -14,7 +14,9 @@ GUI development: gtk and qt: http://sotagtrends.com/?tags=[gtk,qt]
 
 ## Network File Systems
 
-NFS (Network File System). Application servers use storage servers using simple protocols like s3 to store and retrieve blobs.
+NFS (Network File System).
+
+Today application servers use storage servers using simple protocols like s3 to store and retrieve blobs.
 And users prefer the speed of very fast local ssd disks. Software gets stored in git. Many documents get edited only, and the few bytes 
 that get stored in your personal $HOME directory get synced with DropBox, Nextcloud or GoogleDrive.
 
