@@ -14,15 +14,15 @@ GUI development: gtk and qt: http://sotagtrends.com/?tags=[gtk,qt]
 
 ## Network File Systems
 
-NFS (Network File System).
+NFS (Network File System). Today people either use https://en.wikipedia.org/wiki/Server_Message_Block to access files on a network share, or they use a web based file service (DropBox, Google Drive, Microsoft OneDrive, Nextcloud, ...)
 
-Today application servers use storage servers using simple protocols like s3 to store and retrieve blobs.
-And users prefer the speed of very fast local ssd disks. Software gets stored in git. Many documents get edited only, and the few bytes 
-that get stored in your personal $HOME directory get synced with DropBox, Nextcloud or GoogleDrive.
+Today application servers talk to storage servers using simple protocols like s3 to store and retrieve blobs, not NFS.
+
 
 Same for WebDAV. 
 http://sotagtrends.com/?tags=[nfs,webdav]
 
+## OwnCloud
 Owncloud (ownCloud is a suite of client–server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox) was great some months ago. I switched to nextcloud like most other users:
 
 http://sotagtrends.com/?tags=[owncloud,nextcloud]
