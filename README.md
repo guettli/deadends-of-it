@@ -146,7 +146,7 @@ Markup languages are on the downward trend.
 
 Most of them go down. Markdown still goes a bit up: http://sotagtrends.com/?tags=[sphinx,restructuredtext,markdown,mediawiki]
 
-Same for Latex. The need for printable documentation is falling.
+Same for Latex. The need for printable documentation is falling. In 2001 I used Latex for my diploma thesis. This was a good choice since MS-Word and OpenOffice were not reliable these days. Today, I think I would not use Latex again.
 
 # Inotify
 
