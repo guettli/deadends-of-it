@@ -59,6 +59,7 @@ XML was a very big hype. Again: Way too complicated. Not simple enough. JSON (cu
 
 http://sotagtrends.com/?tags=[xml,json]
 
+BUT: Binary data, native time format, timedelta and other things are missing. I think protcol-buffers would be great for exchanging data between systems, but up to now only few people think like this.
 
 # Applications
 
