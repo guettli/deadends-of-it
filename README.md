@@ -90,7 +90,7 @@ Perl vs Python: http://sotagtrends.com/?tags=[perl,python]
 
 C# vs Ruby vs Python: http://sotagtrends.com/?tags=[c%23,python,ruby]
 
-Shell Scripts: https://trends.google.de/trends/explore?date=all&q=shell%20scripts (I use the shell interatively daily. But I stoped
+Shell Scripts: https://trends.google.de/trends/explore?date=all&q=shell%20scripts (I use the shell interatively daily. But I stopped
 writing shell scripts several years ago. Either the script is important (then it I do it with Python and store it in git) xor it is unimportant.
 
 # Linux on the desktop.
