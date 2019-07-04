@@ -228,3 +228,6 @@ Same for Adobe Flash Player: https://trends.google.com/trends/explore?date=all&q
 
 In the year 2001, when I finished my study, I never thought the trend will be like this. In the beginning, the language JavaScript was not taken seriously. Today JavaScript is even running on the server.
 
+# Jenkins
+
+It is still actively used. But the future looks black - gitlab is comming: http://sotagtrends.com/?tags=[jenkins,gitlab]
