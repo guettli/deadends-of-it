@@ -129,8 +129,9 @@ See the trend: http://sotagtrends.com/?tags=[backup]
 
 # Mailing lists
 
-I the past I used mailing lists a lot. But today I use StackOverflow and other sites from StackExchange. And a few google groups. I am only subscribed to a few mailing lists today.
+I the past I used mailing lists a lot. But today I use StackOverflow and other sites from StackExchange. Github issues get used to ask questions, too. And a few google groups. I am only subscribed to a few mailing lists today.
 
+I like this change. This buries the never ending discussion if the reply on a mailing-list should go to the list or to the author of the mail. 
 
 # Markup Languages
 
