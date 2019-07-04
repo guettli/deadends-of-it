@@ -239,4 +239,4 @@ In a world of containers and SaaS you don't need portability any more. You creat
 
 Of course this does not apply to all software. General purpose things like compilers (gcc), interpreters (Python), databases (PostgreSQL) ... still need to be portable. But only few developers spent their time building these fundamental building blocks.
 
-"Portable shell scripts" ... HELP! Don't waste your time writing portable shell scripts.
+"Portable shell scripts?" ... HELP! Don't waste your time writing portable shell scripts.
