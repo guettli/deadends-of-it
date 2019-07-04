@@ -39,7 +39,7 @@ Stateless APIs have won.
 Corba gave you references to remote objects. Sounds great at the beginning. But stateless APIs (via http) are simpler. 
 And simpler is better than "wow".
 
-http://sotagtrends.com/?tags=[corba]
+http://sotagtrends.com/?tags=[corba,protocol-buffers]
 
 ## SOAP
 
