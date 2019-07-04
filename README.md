@@ -90,6 +90,9 @@ Perl vs Python: http://sotagtrends.com/?tags=[perl,python]
 
 C# vs Ruby vs Python: http://sotagtrends.com/?tags=[c%23,python,ruby]
 
+Shell Scripts: https://trends.google.de/trends/explore?date=all&q=shell%20scripts (I use the shell interatively daily. But I stoped
+writing shell scripts several years ago. Either the script is important (then it I do it with Python and store it in git) xor it is unimportant.
+
 # Linux on the desktop.
 
 Some overambitious friends of open source software and open data formats thought you need to switch from Microsoft Windows to Linux as soon as possible. Like the LiMux Project in the year 2005:
