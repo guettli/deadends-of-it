@@ -238,3 +238,5 @@ It is still actively used. But the future looks black - gitlab is comming: http:
 In world of containers and SaaS you don't need portability any more. You create software which takes a vanilla linux distribution container image. Then you modify this according to your needs. There is no need to support several operating systems. If your application wants to use database FooDB (in my case PostgreSQL), then use all features FooDB supports. Often (not always) you don't need to support several different databases.
 
 Of course this does not apply to all software. General purpose things like Python and PostgreSQL still need to be portable. But only few developers spent their timem building these fundamental building blocks.
+
+"Portable shell scripts" ... HELP! Don't waste your time writing portable shell scripts.
