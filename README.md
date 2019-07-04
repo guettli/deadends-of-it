@@ -49,7 +49,9 @@ https://en.wikipedia.org/wiki/SOAP
 
 Me: It is too complicated. It is overengineered. The client for python was not updated since months. Dead.
 
-http://sotagtrends.com/?tags=[soap]
+XML-RPC was nice, too. Simpler than soap. But same here: dead.
+
+http://sotagtrends.com/?tags=[soap,xml-rpc]
 
 # Data formats
 
