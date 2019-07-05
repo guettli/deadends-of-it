@@ -262,3 +262,12 @@ Portability across different browsers? The situations can't be compared to the p
 
 Look at all the confusion and useless work that was created by thinking writing a bash script is evil. The term "Bashism" was created and over commited people started to make things more complicated instead of more easy. See https://wiki.ubuntu.com/DashAsBinSh Depending on my mood this makes me laugh or sometimes cry. The DashAsBinSh page contains so many things to consider. But according to my point of view the most important thing is missing. The "why?" is missing. I see no real reason, no measurable benefit. If you want to use the bash use "#!/bin/bash" at the top and make the rpm/dpkg depend on the bash. If you want to use super-fast-shell, then use "#!/bin/super-fast-shell" at the top and make the rpm/dpkg depend on the super-fast-shell. Why try to write a script which runs with bash and super-fast-shell? Compare this to python/perl: Have you ever considered to write a script which can be executed by the perl and by the python interpreter :-) ?
 
+# Epilogue
+
+You use some tools or methods which are dated? You would never ever do this again if you could start from scratch, but you need to support this old stuff because it is your job? 
+
+Me too.
+
+You can't change the world in one day.
+
+But I think it is healthy to reflect upon the things you did in the past and discuss the conclusion with others.
