@@ -170,7 +170,13 @@ Time has changed.
 
 Now I know: the file system is not an API.
 
+Use Case: a third party service sends you pairs of files. One image file and one json file. The json file contains meta information. If you receive the files via SMB/NFS/FTP and trigger the handling of these files via inotify, then you can't reject broken data. Imagine you get only the json file, but not the image file. Now you (the receiver) need to handle this broken data. If you use http, you can reject broken data and the issue is left to the sending party. And that's where the issue should be. The receiver can't fix broken data. It the job of the sender to transfer valid data.
+
+Of course above use case applies if you don't use inotify. You could use a cron-job which imports the files every five minutes.
+
 Today I prefer http.
+
+Shameless plug: You can use [tbzuploader](https://github.com/tbz-pariv/tbzuploader) to upload single or pairs of files via http.
 
 # Mail admin - a declining job
 
