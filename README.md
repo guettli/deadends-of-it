@@ -128,6 +128,16 @@ At work I do no backup of linux laptop. Software I write gets pushed to a centra
 
 See the trend: http://sotagtrends.com/?tags=[backup]
 
+# Perfect Filesystems
+
+Several times the perfect Linux filesystem was invented: ext2, ext3, reiserfs, zfs, btrfs .... 
+
+Today the discussions about which file system is the best have mostly vanished.
+
+I could not find a reliable reference, but AFAIK google used ext2 for their servers very long (If you find a reliable reference, please tell me). To make it short: It does not matter. If you want high availablity, then be sure that your service survives the outage of servers. A reliable file system does not make your whole service reliable.
+
+Modern applications use storage services.
+
 # Mailing lists
 
 I the past I used mailing lists a lot. But today I use StackOverflow and other sites from StackExchange. Github issues get used to ask questions, too. And a few google groups. I am only subscribed to a few mailing lists today.
