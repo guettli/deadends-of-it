@@ -69,8 +69,6 @@ zsh: Alternative to the bash shell (linux command line language). I was very int
 
 Alternative to the (source code) version-control system git. Git has won. Alternatives do not make sense any more. http://sotagtrends.com/?tags=[git,mercurial,bazaar,svn]
 
-[OpenStack](https://en.wikipedia.org/wiki/OpenStack): http://sotagtrends.com/?tags=[openstack] I read the german Linux Magazine monthly. At first I was very exited about this project. More than 500 companies have joined the project .... [Companies Supporting The OpenStack Foundation](https://www.openstack.org/foundation/companies/) Lesson learned: The bigger the project, the slower the progress.
-
 
 Desktop office: MS-Office, Libreoffice. These programms were very important in the past. Today most people learned, that you can write the text directly into the mail body. You do not need to add a ms-word document to the mail. 
 http://sotagtrends.com/?tags=[ms-office,libreoffice]
@@ -78,6 +76,10 @@ http://sotagtrends.com/?tags=[ms-office,libreoffice]
 KDE "The K desktop environment" was very wide spread (at least in germany) for some years. But gnome has not much more traffic: http://sotagtrends.com/?tags=[kde,gnome]
 
 Nagios was once the number 1 monitoring solution. Time has changed. I guess most people would not start to use it today, if they could start from scratch: https://trends.google.com/trends/explore?date=all&q=nagios
+
+# Cloud computing
+
+[OpenStack](https://en.wikipedia.org/wiki/OpenStack): http://sotagtrends.com/?tags=[openstack] I read the german Linux Magazine monthly. At first I was very exited about this project. More than 500 companies have joined the project .... [Companies Supporting The OpenStack Foundation](https://www.openstack.org/foundation/companies/) Lesson learned: The bigger the project, the slower the progress.
 
 # Programming languages
 
