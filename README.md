@@ -65,11 +65,12 @@ BUT: Binary data, native time format, timedelta and other things are missing. I 
 
 Emacs: I used this text editor 14 years daily (2001-2015). I switched to PyCharm. http://sotagtrends.com/?tags=[emacs,pycharm]
 
-zsh: Alternative to the bash shell (linux command line langauge). I was very interested at the beginning. But finally, you do not gain much. The bash is the default shell, and for me it does not make much sense to use a different shell. http://sotagtrends.com/?tags=[zsh,bash]
+zsh: Alternative to the bash shell (linux command line language). I was very interested at the beginning. But finally, you do not gain much. The bash is the default shell, and for me it does not make much sense to use a different shell. http://sotagtrends.com/?tags=[zsh,bash]
 
 Alternative to the (source code) version-control system git. Git has won. Alternatives do not make sense any more. http://sotagtrends.com/?tags=[git,mercurial,bazaar,svn]
 
-OpenStack: http://sotagtrends.com/?tags=[openstack]
+[OpenStack](https://en.wikipedia.org/wiki/OpenStack): http://sotagtrends.com/?tags=[openstack] I read the german Linux Magazine monthly. At first I was very exited about this project. More than 500 companies have joined the project .... [Companies Supporting The OpenStack Foundation](https://www.openstack.org/foundation/companies/) Lesson learned: The bigger the project, the slower the progress.
+
 
 Desktop office: MS-Office, Libreoffice. These programms were very important in the past. Today most people learned, that you can write the text directly into the mail body. You do not need to add a ms-word document to the mail. 
 http://sotagtrends.com/?tags=[ms-office,libreoffice]
