@@ -32,7 +32,7 @@ http://sotagtrends.com/?tags=[owncloud,nextcloud]
 
 ## Corba
 
-Corba was a big hype some years ago. AFAIK it does not get used for new projects any more.
+[Common Object Request Broker Architecture (CORBA)](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture) was a big hype some years ago. AFAIK it does not get used for new projects any more.
 
 Stateless APIs have won.
 
