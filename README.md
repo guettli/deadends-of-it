@@ -85,7 +85,7 @@ Nagios was once the number 1 monitoring solution. Time has changed. I guess most
 
 Low-level languages like assembly, C, C++ are the building blocks of higher level languages. But the usage of these languages is in decline or constant low. Here in comparison with Python: http://sotagtrends.com/?tags=[assembly,c,c%2B%2B,python]
 
-Java was a big hype and is still wide spread. It is no "deadend" yet, but declining: http://sotagtrends.com/?tags=[python,java]
+Java was a big hype and is still wide spread. It is no "deadend" yet, but declining: http://sotagtrends.com/?tags=[python,java] In 2003 I was seaking a new job in a new city (Chemnitz). Most jobs for software developers where for Java or C/C++ developers. But I found a company where I can use Python daily ([tbz-pariv](http://www.tbz-pariv.de/))
 
 I just don't know if XSLT is a programming language or a data format. I never liked it. It was way too verbose, it was complicated to write. It was not a real programming language and simple things got complicated soon.
 I am happy to see XLST going: http://sotagtrends.com/?tags=[xslt]
