@@ -239,7 +239,9 @@ The High availability method "One master, N secondary slaves" with failover was 
 
 Today High availablity get's handled different: Multi-Master replication https://en.wikipedia.org/wiki/Multi-master_replication
 
-The trends show how it does decline: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0b1yt5
+
+The trends show how it does decline. Here in comparison with [Ceph](https://en.wikipedia.org/wiki/Ceph_%28software%29): https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0b1yt5,ceph
+
 
 # Browser Plugins (Java Applets, Flash)
 
