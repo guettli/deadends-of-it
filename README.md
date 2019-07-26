@@ -100,6 +100,13 @@ C# vs Ruby vs Python: http://sotagtrends.com/?tags=[c%23,python,ruby]
 Shell Scripts: https://trends.google.de/trends/explore?date=all&q=shell%20scripts (I use the shell interatively daily. But I stopped
 writing shell scripts several years ago. Either the script is important (then it I do it with Python and store it in git) xor it is unimportant.
 
+# Regular Expressions
+
+Parsing text with regular expressions is like eating rubish. In the 21 century we send an receive data structures. We don't send strings which the receiver needs to parse.
+
+https://trends.google.com/trends/explore?cat=32&date=all&q=regular%20expressions,json
+
+
 # Linux on the desktop.
 
 Some overambitious friends of open source software and open data formats thought you need to switch from Microsoft Windows to Linux as soon as possible. Like the LiMux Project in the year 2005:
