@@ -246,13 +246,16 @@ Today High availablity get's handled different.
 The trends show how it does decline. Here in comparison with [Ceph](https://en.wikipedia.org/wiki/Ceph_%28software%29): https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0b1yt5,ceph
 
 
-# Browser Plugins (Java Applets, Flash)
+# Web Developement 
 
 Java Applets running in the web browser are dead: https://trends.google.com/trends/explore?date=all&q=java%20applets
 
 Same for Adobe Flash Player: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05qh6g
 
 In the year 2001, when I finished my study, I never thought the trend will be like this. In the beginning, the language JavaScript was not taken seriously. Today JavaScript is even running on the server.
+
+Up to now (2019) I still use jQuery. But I was told by several JavaScript developers, that if you start from scratch today, you don't need jquery and more. The tag trend is clear: http://sotagtrends.com/?tags=[jquery]
+
 
 # Jenkins
 
