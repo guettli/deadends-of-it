@@ -237,7 +237,7 @@ DRBD is not dead, but it does decline.
 
 The High availability method "One master, N secondary slaves" with failover was popular in the past.
 
-Today High availablity get's handled different: Multi-Master replication https://en.wikipedia.org/wiki/Multi-master_replication
+Today High availablity get's handled different.
 
 
 The trends show how it does decline. Here in comparison with [Ceph](https://en.wikipedia.org/wiki/Ceph_%28software%29): https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0b1yt5,ceph
