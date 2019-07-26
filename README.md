@@ -100,6 +100,16 @@ C# vs Ruby vs Python: http://sotagtrends.com/?tags=[c%23,python,ruby]
 Shell Scripts: https://trends.google.de/trends/explore?date=all&q=shell%20scripts (I use the shell interatively daily. But I stopped
 writing shell scripts several years ago. Either the script is important (then it I do it with Python and store it in git) xor it is unimportant.
 
+# One Spec, several Implementations
+
+C, C++, Java Enterprise Edition and a lot other development tools used the pattern "one specifictation, several implementation". I think this pattern is outdated. Modern tools (Python, TypeScript, Kubernetes, go, Rust, Linux, ...) implement what's usefull. 
+
+In the year 2000 I asked on one of the many apache java mailinglists about a new feature/idea. The respond of the developers (roughly): "Yes, it would be nice to have this feature. But first we need to wait for the new specification to get published.". This was one of the reasons I switched from Java to Python.
+
+The pattern "One spec, several implementations" is usefull for protocols like http/imap/smtp/snmp... and data formats (xml, json, yaml), but not for tools.
+
+At least for Java Enterprise Edition and Enterprise Beans the trend looks black: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0bs6x,%2Fm%2F0br1c
+
 # Regular Expressions
 
 Parsing text with regular expressions is like eating rubish. In the 21 century we send an receive data structures. We don't send strings which the receiver needs to parse.
