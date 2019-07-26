@@ -75,7 +75,7 @@ http://sotagtrends.com/?tags=[ms-office,libreoffice]
 
 KDE "The K desktop environment" was very wide spread (at least in germany) for some years. But gnome has not much more traffic: http://sotagtrends.com/?tags=[kde,gnome]
 
-Nagios was once the number 1 monitoring solution. Time has changed. I guess most people would not start to use it today, if they could start from scratch: https://trends.google.com/trends/explore?date=all&q=nagios
+Nagios was once the number 1 monitoring solution. Time has changed. I guess most people would not start to use it today, if they could start from scratch. Here Nagios compared with Zabbix, PRTG, check_mk: https://trends.google.com/trends/explore?date=all&q=nagios,%2Fm%2F03c9jx,%2Fg%2F11bc5wdh4r,%2Fm%2F0h_9jxz
 
 # Cloud computing / Virtualization
 
