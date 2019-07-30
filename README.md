@@ -79,8 +79,6 @@ Nagios was once the number 1 monitoring solution. Time has changed. I guess most
 
 # Cloud computing / Virtualization
 
-[OpenStack](https://en.wikipedia.org/wiki/OpenStack): http://sotagtrends.com/?tags=[openstack] I read the german Linux Magazine monthly. At first I was very exited about this project. More than 500 companies have joined the project .... [Companies Supporting The OpenStack Foundation](https://www.openstack.org/foundation/companies/) Lesson learned: The bigger the project, the slower the progress.
-
 [XEN](https://en.wikipedia.org/wiki/Xen) (Linux Hypervisor). XEN compared with VMWare and Kubernetes: https://trends.google.de/trends/explore?date=all&q=%2Fm%2F02t3gg,%2Fm%2F01t9k5,%2Fg%2F11b7lxp79d
 
 
