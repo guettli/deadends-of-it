@@ -114,6 +114,11 @@ Parsing text with regular expressions is like eating rubish. In the 21 century w
 
 https://trends.google.com/trends/explore?cat=32&date=all&q=regular%20expressions,json
 
+# sed, awk, grep, ....
+
+Parsing text with $YOUR_FAVORITE_TOOL is like eating rubish.
+
+I stil use these tools sometimes interactively, but I don't write shell scripts any more.
 
 # Linux on the desktop.
 
