@@ -276,6 +276,7 @@ In the year 2001, when I finished my study, I never thought the trend will be li
 
 Up to now (2019) I still use jQuery. But I was told by several JavaScript developers, that if you start from scratch today, you don't need jquery and more. The tag trend is clear: http://sotagtrends.com/?tags=[jquery]
 
+Synthetic JavaScript benchmarks don't make sense. See why octane was retired: https://v8.dev/blog/retiring-octane
 
 # Jenkins
 
