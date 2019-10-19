@@ -41,7 +41,7 @@ And simpler is better than "wow".
 
 http://sotagtrends.com/?tags=[corba,protocol-buffers]
 
-## SOAP
+## SOAP, WSDL
 
 From Wikipedia: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP) or Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission. 
 
@@ -51,7 +51,9 @@ Me: It is too complicated. It is overengineered. The client for python was not u
 
 XML-RPC was nice, too. Simpler than soap. But same here: dead.
 
-http://sotagtrends.com/?tags=[soap,xml-rpc]
+WSDL: The Web Services Description Language is an XML-based interface description language that is used for describing the functionality offered by a web service.
+
+http://sotagtrends.com/?tags=[soap,xml-rpc,wsdl]
 
 # Data formats
 
