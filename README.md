@@ -57,11 +57,16 @@ http://sotagtrends.com/?tags=[soap,xml-rpc,wsdl]
 
 # Data formats
 
+## XML
 XML was a very big hype. Again: Way too complicated. Not simple enough. JSON (current hype) is much better to exchange data, since it supports some simple data types (int, string, list, dictionaries)
 
 http://sotagtrends.com/?tags=[xml,json]
 
 BUT: Binary data, native time format, timedelta and other things are missing. I think protcol-buffers would be great for exchanging data between systems, but up to now only few people think like this.
+
+## latin1, windows-cp-1252 ...
+
+Unicode has won. I am very happy. Poor guys who still need to fiddle with old character codes.
 
 # Applications
 
@@ -102,13 +107,15 @@ writing shell scripts several years ago. Either the script is important (then it
 
 # One Spec, several Implementations
 
-C, C++, Java Enterprise Edition and a lot other development tools used the pattern "one specifictation, several implementation". I think this pattern is outdated. Modern tools (Python, TypeScript, Kubernetes, go, Rust, Linux, ...) implement what's usefull. 
+C, C++, Java Enterprise Edition and a lot other development tools used the pattern "one specifictation, several implementation". I think this pattern is outdated. Modern tools (Python, TypeScript, Kubernetes, go, Rust, Linux, ...) implement what's usefull. No need to do this twice.
 
 In the year 2000 I asked on one of the many apache java mailinglists about a new feature/idea. The respond of the developers (roughly): "Yes, it would be nice to have this feature. But first we need to wait for the new specification to get published.". This was one of the reasons I switched from Java to Python.
 
 The pattern "One spec, several implementations" is usefull for protocols like http/imap/smtp/snmp... and data formats (xml, json, yaml), but not for tools.
 
 At least for Java Enterprise Edition and Enterprise Beans the trend looks black: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0bs6x,%2Fm%2F0br1c
+
+In 2019 Internet-Explorer switched to use the chrome engine. I guess Firefox will do the same sooner or later. Maybe there will be only one engine in some years.
 
 # Regular Expressions
 
