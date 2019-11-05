@@ -249,7 +249,7 @@ Now, in the year 2019 I think there are no real arguments pro microkernel. Nice 
 
 But there are micro kernel based operating systems like: https://genode.org/
 
-# RAW image format
+# RAW photo format
 
 When I bought my first reflex camera (Canon 50D) most friends which already had a reflex camera told me that is great because you can make photos in the raw image format. This raw format contains much more information and this is much, much better for post-processing.
 
