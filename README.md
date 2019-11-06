@@ -98,7 +98,7 @@ JAMStack is coming?
 
 # Programming languages
 
-Low-level languages like assembly, C, C++ are the building blocks of higher level languages. But the usage of these languages is in decline or constant low. Here in comparison with Python: http://sotagtrends.com/?tags=[assembly,c,c%2B%2B,python]
+Low-level languages like assembly, C, C++ are the building blocks of higher level languages. But the usage of these languages is in decline or constant low. Here in comparison with Python: http://sotagtrends.com/?tags=[assembly,c,c%2B%2B,python]. Nobody wants to call `malloc()` and `free()` any more.
 
 Java was a big hype and is still wide spread. It is no "deadend" yet, but declining: http://sotagtrends.com/?tags=[python,java] In 2003 I was seaking a new job in a new city (Chemnitz). Most jobs for software developers were for Java or C/C++ developers. But I found a company where I can use Python daily ([tbz-pariv](http://www.tbz-pariv.de/))
 
