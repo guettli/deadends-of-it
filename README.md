@@ -287,6 +287,18 @@ Up to now (2019) I still use jQuery. But I was told by several JavaScript develo
 
 Synthetic JavaScript benchmarks don't make sense. See why octane was retired: https://v8.dev/blog/retiring-octane
 
+# Internet
+
+## FTP
+
+If you still use ftp consider using [tbzuploader](https://github.com/tbz-pariv/tbzuploader) which is a generic upload tool for http. Of course the server needs to support this. But this very simple: Just return "201 created" if the upload was successful.
+
+## Mirrors
+
+In the past it was common to run a script which detects which mirror is the best for your particular internet connection. Of course debian/ubuntu packages and other stuff still gets mirrored. But in most cases it is not needed any more.
+
+
+
 # Jenkins
 
 It is still actively used. But the future looks black - gitlab is comming: http://sotagtrends.com/?tags=[jenkins,gitlab]
