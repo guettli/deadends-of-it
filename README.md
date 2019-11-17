@@ -88,7 +88,7 @@ Nagios was once the number 1 monitoring solution. Time has changed. I guess most
 
 ## XEN
 
-[XEN](https://en.wikipedia.org/wiki/Xen) (Linux Hypervisor). XEN compared with VMWare and Kubernetes: https://trends.google.de/trends/explore?date=all&q=%2Fm%2F02t3gg,%2Fm%2F01t9k5,%2Fg%2F11b7lxp79d
+[XEN](https://en.wikipedia.org/wiki/Xen) (Linux Hypervisor). XEN compared with VMWare and Kubernetes: [Google Trend XEN, VMWare, Kubernetes](https://trends.google.de/trends/explore?date=all&q=%2Fm%2F02t3gg,%2Fm%2F01t9k5,%2Fg%2F11b7lxp79d)
 
 ## Vagrant
 
