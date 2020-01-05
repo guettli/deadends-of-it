@@ -8,6 +8,8 @@ Here is list of things I have seen going. Some former hypes, some things that ne
 
 "All we are is dust in the wind" (Songwriter: Kerry Livgren)
 
+Most things I list below are get used daily by a lot of people and mature solutoins. But I won't go this way if they could start from scratch.
+
 ## Native GUI development
 
 GUI development: gtk and qt: http://sotagtrends.com/?tags=[gtk,qt]
