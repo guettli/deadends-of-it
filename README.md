@@ -132,6 +132,8 @@ At least for Java Enterprise Edition and Enterprise Beans the trend looks black:
 
 In 2019 Internet-Explorer switched to use the chrome engine. I guess Firefox will do the same sooner or later. Maybe there will be only one engine in some years.
 
+[Business Process Execution Language](https://en.wikipedia.org/wiki/Business_Process_Execution_Language) was a standard executable language for specifying actions within business processes. Dead: [Trends of "BPEL"](https://trends.google.com/trends/explore?date=all&q=BPEL)
+
 # Regular Expressions
 
 Parsing text with regular expressions is like eating rubish. In the 21 century we send an receive data structures. We don't send strings which the receiver needs to parse.
