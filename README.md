@@ -158,6 +158,8 @@ https://en.wikipedia.org/wiki/LiMux
 
 Today, every desktop usage is decreasing. Mobile interfaces get used.
 
+And if you use a desktop you use the browser for most tasks. Software as a service eats the native GUI.
+
 # Hardware
 
 Ubuntu-Phone. Don't ask me why Mark Shuttleworth ever thought this will be a success. https://en.wikipedia.org/wiki/Ubuntu_Touch
