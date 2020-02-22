@@ -335,10 +335,6 @@ Look at all the confusion and useless work that was created by thinking writing 
 
 # Epilogue
 
-You use some tools or methods which are dated? You would never ever do this again if you could start from scratch, but you need to support this old stuff because it is your job? 
+You use some tools or methods which are dated? No need to follow every hype, but you would never ever do this again if you could start from scratch.
 
-Me too.
-
-You can't change the world in one day.
-
-But I think it is healthy to reflect upon the things you did in the past and discuss the conclusion with others.
+Lesson learned: The [Bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) eats diversity. [The winner takes it all](https://www.youtube.com/watch?v=92cwKCU8Z5c)
