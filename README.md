@@ -57,6 +57,10 @@ WSDL: The Web Services Description Language is an XML-based interface descriptio
 
 http://sotagtrends.com/?tags=[soap,xml-rpc,wsdl]
 
+## LDAP 
+
+[LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) goes down: [Google Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04plq)
+
 # Data formats
 
 ## XML
