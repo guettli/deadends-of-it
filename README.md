@@ -192,9 +192,11 @@ I could not find a reliable reference, but AFAIK google used ext2 for their serv
 
 Modern applications use storage services.
 
-# Mailing lists
+# Communication
 
-I the past I used mailing lists a lot. But today I use StackOverflow and other sites from StackExchange. Github issues get used to ask questions, too. And a few google groups. I am only subscribed to a few mailing lists today.
+Roughly until 2004 I used [Usenet](https://en.wikipedia.org/wiki/Usenet). Which was replaced by [mailing lists](https://en.wikipedia.org/wiki/Mailing_list)
+
+But today I use StackOverflow, other sites from StackExchange, Reddit and Facebook Groups. Github issues get used to ask questions, too.
 
 I like this change. This buries the never ending discussion if the reply on a mailing-list should go to the list or to the author of the mail. 
 
