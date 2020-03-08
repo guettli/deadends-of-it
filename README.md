@@ -58,8 +58,6 @@ WSDL: The Web Services Description Language is an XML-based interface descriptio
 http://sotagtrends.com/?tags=[soap,xml-rpc,wsdl]
 
 
-[RSS](https://en.wikipedia.org/wiki/RSS): RSS (originally RDF Site Summary; later, two competing approaches emerged, which used the backronyms Rich Site Summary and Really Simple Syndication respectively) is a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format. [Google Trend](https://trends.google.com/trends/explore?date=all&geo=US&q=%2Fm%2F0n5tx)
-
 ## LDAP 
 
 [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) goes down: [Google Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04plq)
