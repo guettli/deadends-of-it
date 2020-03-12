@@ -151,6 +151,10 @@ Parsing text with $YOUR_FAVORITE_TOOL is like eating rubish.
 
 I stil use these tools sometimes interactively, but I don't write shell scripts any more.
 
+# Browser war
+
+[Browser war](https://en.wikipedia.org/wiki/Browser_wars) chrome has won.
+
 # Linux on the desktop.
 
 Some overambitious friends of open source software and open data formats thought you need to switch from Microsoft Windows to Linux as soon as possible. Like the LiMux Project in the year 2005:
