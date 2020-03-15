@@ -211,21 +211,20 @@ I like this change. This buries the never-ending discussion if the reply on a ma
 
 # Markup Languages
 
-I think markup languages have lost - except HTML. Once upon a time, Markup languages like reStructuredText were used to create documentation
-that can be compiled to HTML or PDF. Who prints docs today? I don't know anybody who prints docs today.
+I think markup languages have lost - except HTML and markdown. Once upon a time, Markup languages like SGML, XML, reStructuredText .. were used to create documentation
+that can be compiled to HTML or PDF. Who prints docs today?
 
-HTML is the future. Easy to use HTML online editors as CKEditor exist.
+HTML is the future. Easy to use HTML WYSIWYG editors exist. See my list of [WYSIWYG editors](https://github.com/guettli/wysiwyg)
 
-HTML gives two distinct groups of people all that they want. Geeks can write HTML directly and use all the features it offers. And CKEditor gives non-geeks a way to create formatted text.
+HTML gives two distinct groups of people all that they want. Geeks can write HTML directly and use all the features it offers. And WYWIWYG editors gives non-geeks a way to create formatted text.
 
-Markup languages are on a downward trend.
+Other markup languages are on a downward trend.
 
-Most of them go down. Markdown still goes a bit up: http://sotagtrends.com/?tags=[sphinx,restructuredtext,markdown,mediawiki]
+Most of them go down. Markdown goes up, since it is convinient for simple formatting like github README files: http://sotagtrends.com/?tags=[sphinx,restructuredtext,markdown,mediawiki]
 
 Same for Latex. The need for printable documentation is falling. In 2001 I used Latex for my diploma thesis. This was a good choice since MS-Word and OpenOffice were not reliable these days. Today, I think I would not use Latex again.
 
 Some for [DocBook](https://en.wikipedia.org/wiki/DocBook). See [google trend "DocBook"](https://trends.google.de/trends/explore?date=all&q=%2Fm%2F0c1gr). I am so happy to see this down-trend.
-
 
 # Inotify
 
