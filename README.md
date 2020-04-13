@@ -43,6 +43,12 @@ And simpler is better than "wow".
 
 http://sotagtrends.com/?tags=[corba,protocol-buffers]
 
+## Microsoft COM
+
+[Microsoft COM (Component Object Model)](https://en.wikipedia.org/wiki/Component_Object_Model)
+
+It is very uncommon to automate MS-Word or Excel via COM these days. I am happy.
+
 ## SOAP, WSDL
 
 From Wikipedia: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality, and independence. It uses XML Information Set for its message format and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP) or Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission. 
