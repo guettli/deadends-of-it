@@ -383,6 +383,8 @@ Same for [Debian Med](https://en.wikipedia.org/wiki/Debian_Pure_Blend#Debian-Med
 
 Sounds good. Sounds like [practice of charity](https://en.wikipedia.org/wiki/Charity_(practice). Charity gives you and me a warm feeling inside. 
 
+It is discriminating. Why invest time and money into a custom linux distribution if only a few people benefit from it? It feels less like charity, but in reality it is more generosity if you help to develop something generic which helps everybody.
+
 But how to provide useful service to help people? You need to lower the barrier. Installing a Linux distribution is a lot of effort. You won't reach many people. An application which works on Windows, Linux and Mac will reach more people. An application which just requires a web browser reaches nearly everybody.
 
 
