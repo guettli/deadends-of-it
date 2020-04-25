@@ -1,6 +1,6 @@
 # Deadends of Information Technology
 
-I was born in 1976, learned programming 1989, studied information technology 1996-2001 and worked since then in this business.
+I was born in 1976, learned programming 1989, studied information technology 1996-2001, and worked since then in this business.
 
 I am 43 years old now. I have seen a lot of hypes coming and going.
 
@@ -8,7 +8,7 @@ Here is a list of things I have seen going. Some former hypes, some things that 
 
 "All we are is dust in the wind" (Songwriter: Kerry Livgren)
 
-Most things I list below get used daily by a lot of people and are mature solutions. But I won't go this way if they could start from scratch.
+Most things I list below to get used daily by a lot of people and are mature solutions. But I won't go this way if they could start from scratch.
 
 ## Native GUI development
 
@@ -133,11 +133,11 @@ writing shell scripts several years ago. Either the script is important (then I 
 
 # One Spec, several Implementations
 
-C, C++, Java Enterprise Edition and a lot of other development tools used the pattern "one specification, several implementations". I think this pattern is outdated. Modern tools (Python, TypeScript, Kubernetes, go, Rust, Linux, ...) implement what's useful. No need to do this twice.
+C, C++, Java Enterprise Edition, and a lot of other development tools used the pattern "one specification, several implementations". I think this pattern is outdated. Modern tools (Python, TypeScript, Kubernetes, Go, Rust, Linux, ...) implement what's useful. No need to do this twice.
 
 In the year 2000, I asked on one of the many apache java mailing lists about a new feature/idea. The response of the developers (roughly): "Yes, it would be nice to have this feature. But first, we need to wait for the new specification to get published.". This was one of the reasons I switched from Java to Python.
 
-The pattern "One spec, several implementations" is useful for protocols like http/imap/smtp/snmp... and data formats (xml, json, yaml), but not for tools.
+The pattern "One spec, several implementations" is useful for protocols like http/imap/smtp/snmp... and data formats (XML, json, YAML), but not for tools.
 
 At least for Java Enterprise Edition and Enterprise Beans, the trend looks black: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0bs6x,%2Fm%2F0br1c
 
@@ -189,7 +189,7 @@ Chef and Puppet (the older ones) and Ansible and Salt are the new ones. In 2013 
 
 Of course, making a backup of data is still done often and makes sense. But it gets done less often.
 
-mobile devices: My wife, my son and I, do not backup our mobile phones. I guess most people do it like this. The device does not store important data that is not stored somewhere else. The device contains contacts, calendars, some documents shared via Nextcloud. Mails are stored on the mail server. 
+mobile devices: My wife, my son, and I, do not backup our mobile phones. I guess most people do it like this. The device does not store important data that is not stored somewhere else. The device contains contacts, calendars, some documents shared via Nextcloud. Mails are stored on the mail server. 
 
 Of course, it will be very annoying if the mobile device would get lost or broken. It will be a lot of work to configure the new device. But no important data would get lost.
 
@@ -222,11 +222,11 @@ that can be compiled to HTML or PDF. Who prints docs today?
 
 HTML is the future. Easy to use HTML WYSIWYG editors exist. See my list of [WYSIWYG editors](https://github.com/guettli/wysiwyg)
 
-HTML gives two distinct groups of people all that they want. Geeks can write HTML directly and use all the features it offers. And WYWIWYG editors gives non-geeks a way to create formatted text.
+HTML gives two distinct groups of people all that they want. Geeks can write HTML directly and use all the features it offers. And WYSIWYG editors give non-geeks a way to create formatted text.
 
 Other markup languages are on a downward trend.
 
-Most of them go down. Markdown goes up, since it is convinient for simple formatting like github README files: http://sotagtrends.com/?tags=[sphinx,restructuredtext,markdown,mediawiki]
+Most of them go down. Markdown goes up, since it is convenient for simple formatting like Github README files: http://sotagtrends.com/?tags=[sphinx,restructuredtext,markdown,mediawiki]
 
 Same for Latex. The need for printable documentation is falling. In 2001 I used Latex for my diploma thesis. This was a good choice since MS-Word and OpenOffice were not reliable these days. Today, I think I would not use Latex again.
 
@@ -357,11 +357,11 @@ Look at all the confusion and useless work that was created by thinking writing 
 
 > Skolelinux/Debian-Edu is a Linux distribution intended for educational use and a Debian Pure Blend. The free and open source software project was founded in Norway in 2001 and is now being internationally developed.
 
-Sometime specific solutions are better, sometimes general solutions are better.
+Sometimes specific solutions are better, sometimes general solutions are better.
 
-I think this is very good example for "learning from the past".
+I think this is a very good example of "learning from the past".
 
-Supporting the existing project seems much slower in the beginning and people think "let's build something new for our use case". What happens when the initial enthusiasm settles? In this case the solution was not specific for schools. A reliable and simple to set up Linux server has many use cases. It is better to join forces instead of trying to build something new.
+Supporting the existing project seems much slower in the beginning and people think "let's build something new for our use case". What happens when the initial enthusiasm settles? In this case, the solution was not specific for schools. A reliable and simple to set up Linux server has many use cases. It is better to join forces instead of trying to build something new.
 
 Skolinux advertises with:
 
@@ -370,9 +370,9 @@ Skolinux advertises with:
 > 100% free software - ready to use for every kind of network
 > complety compatible to microsoft-windows-clients
 
-My dentist has the same needs. An architecture office, too. Charitable institutions for the care of neglected orphans.... The headquarter of the Worldwide Evil Hedge Fond ... all have the need for reliable servers, desktops and thin clients. 
+My dentist has the same needs. An architecture office, too. Charitable institutions for the care of neglected orphans.... The headquarter of the Worldwide Evil Hedge Fond ... all need reliable servers, desktops and thin clients. 
 
-So why a new **distribution**? Everybody should have his custom linux distribution? This makes no sense.
+So why a new **distribution**? Everybody should have his custom Linux distribution? This makes no sense.
 
 Why not support an existing Linux distribution and provide some additional applications on top?
 
@@ -381,11 +381,11 @@ Same for [Debian Med](https://en.wikipedia.org/wiki/Debian_Pure_Blend#Debian-Med
 > The Debian Med project is a Debian Pure Blend created to provide a co-ordinated operating system and collection of 
 > available free software packages that are well-suited for the requirements for medical practices and medical research.
 
-Sounds good. Sounds like [practice of charity](https://en.wikipedia.org/wiki/Charity_(practice). Charity gives you and me a warm feeling inside. 
+Sounds good. Sounds like [the practice of charity](https://en.wikipedia.org/wiki/Charity_(practice). Charity gives you and me a warm feeling inside. 
 
-It is discriminating. Why invest time and money into a custom linux distribution if only a few people benefit from it? It feels less like charity, but in reality it is more generosity if you help to develop something generic which helps everybody.
+It is discriminating. Why invest time and money into a custom Linux distribution if only a few people benefit from it? It feels less like charity, but in reality, it is more generosity if you help to develop something generic which helps everybody.
 
-But how to provide useful service to help people? You need to lower the barrier. Installing a Linux distribution is a lot of effort. You won't reach many people. An application which works on Windows, Linux and Mac will reach more people. An application which just requires a web browser reaches nearly everybody.
+But how to provide useful service to help people? You need to lower the barrier. Installing a Linux distribution is a lot of effort. You won't reach many people. An application that works on Windows, Linux, and Mac will reach more people. An application which just requires a web browser reaches nearly everybody.
 
 
 # Epilogue
