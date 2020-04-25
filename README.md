@@ -353,6 +353,40 @@ Portability across different browsers? The situations can't be compared to the p
 
 Look at all the confusion and useless work that was created by thinking writing a bash script is evil. The term "Bashism" was created and over-committed people started to make things more complicated instead of easier. See https://wiki.ubuntu.com/DashAsBinSh Depending on my mood this makes me laugh or sometimes cry. The DashAsBinSh page contains so many things to consider. But according to my point of view, the most important thing is missing. The "why?" is missing. I see no real reason, no measurable benefit. If you want to use the bash use "#!/bin/bash" at the top and make the rpm/dpkg depend on the bash. If you want to use a super-fast-shell, then use "#!/bin/super-fast-shell" at the top and make the rpm/dpkg depend on the super-fast-shell. Why try to write a script which runs with bash and super-fast-shell? Compare this to python/perl: Have you ever considered to write a script which can be executed by the Perl and by the python interpreter :-) ?
 
+# Skolelinux (and custom distributions)
+
+> Skolelinux/Debian-Edu is a Linux distribution intended for educational use and a Debian Pure Blend. The free and open source software project was founded in Norway in 2001 and is now being internationally developed.
+
+Sometime specific solutions are better, sometimes general solutions are better.
+
+It would have been better if Norway had supported Debian with the invested money (and time) instead of developing
+Skolelinux. Without financial support, the project fell asleep quite quickly.
+
+I think this is very good example for "learning from the past".
+
+Supporting the existing project seems much slower in the beginning and people think "let's build something new for our use case". What happens when the initial enthusiasm settles? In this case the solution was not specific for schools. A reliable and sipmle to set up Linux server has many use cases. It is better to join forces instead of trying to build something new.
+
+Skolinux advertises with:
+
+> server, desktops, thin clients - everything out of the box
+> free, but behind the scenes with commercial and professional support
+> 100% free software - ready to use for every kind of network
+> complety compatible to microsoft-windows-clients
+
+My dentist has the same needs. An architecture office, too. Charitable institutions for the care of neglected orphans.... The headquarter of the Worldwide Evil Hedge Fond ... all have the for reliable servers, desktops and thin clients. Everybody should have its own Linux distribution?
+
+So why a new **distribution**? Why not support an existing Linux distribution and provide some additional applications on top?
+
+Same for [Debian Med](https://en.wikipedia.org/wiki/Debian_Pure_Blend#Debian-Med)
+
+> The Debian Med project is a Debian Pure Blend created to provide a co-ordinated operating system and collection of 
+> available free software packages that are well-suited for the requirements for medical practices and medical research.
+
+Sounds good. Sounds like [practice of charity](https://en.wikipedia.org/wiki/Charity_(practice). Charity gives you and me a warm feeling inside. 
+
+But how to provide useful service to help people? You need to lower the barrier. Installing a Linux distribution is a lot of effort. You won't reach many people. An application which works on Windows, Linux and Mac will reach more people. An application which just requires a web browser reaches nearly everybody.
+
+
 # Epilogue
 
 You use some tools or methods which are dated? No need to follow every hype, but you would never do this again if you could start from scratch.
