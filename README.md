@@ -359,12 +359,9 @@ Look at all the confusion and useless work that was created by thinking writing 
 
 Sometime specific solutions are better, sometimes general solutions are better.
 
-It would have been better if Norway had supported Debian with the invested money (and time) instead of developing
-Skolelinux. Without financial support, the project fell asleep quite quickly.
-
 I think this is very good example for "learning from the past".
 
-Supporting the existing project seems much slower in the beginning and people think "let's build something new for our use case". What happens when the initial enthusiasm settles? In this case the solution was not specific for schools. A reliable and sipmle to set up Linux server has many use cases. It is better to join forces instead of trying to build something new.
+Supporting the existing project seems much slower in the beginning and people think "let's build something new for our use case". What happens when the initial enthusiasm settles? In this case the solution was not specific for schools. A reliable and simple to set up Linux server has many use cases. It is better to join forces instead of trying to build something new.
 
 Skolinux advertises with:
 
@@ -373,9 +370,11 @@ Skolinux advertises with:
 > 100% free software - ready to use for every kind of network
 > complety compatible to microsoft-windows-clients
 
-My dentist has the same needs. An architecture office, too. Charitable institutions for the care of neglected orphans.... The headquarter of the Worldwide Evil Hedge Fond ... all have the for reliable servers, desktops and thin clients. Everybody should have its own Linux distribution?
+My dentist has the same needs. An architecture office, too. Charitable institutions for the care of neglected orphans.... The headquarter of the Worldwide Evil Hedge Fond ... all have the need for reliable servers, desktops and thin clients. 
 
-So why a new **distribution**? Why not support an existing Linux distribution and provide some additional applications on top?
+So why a new **distribution**? Everybody should have his custom linux distribution? This makes no sense.
+
+Why not support an existing Linux distribution and provide some additional applications on top?
 
 Same for [Debian Med](https://en.wikipedia.org/wiki/Debian_Pure_Blend#Debian-Med)
 
