@@ -353,7 +353,7 @@ Portability across different browsers? The situations can't be compared to the p
 
 Look at all the confusion and useless work that was created by thinking writing a bash script is evil. The term "Bashism" was created and over-committed people started to make things more complicated instead of easier. See https://wiki.ubuntu.com/DashAsBinSh Depending on my mood this makes me laugh or sometimes cry. The DashAsBinSh page contains so many things to consider. But according to my point of view, the most important thing is missing. The "why?" is missing. I see no real reason, no measurable benefit. If you want to use the bash use "#!/bin/bash" at the top and make the rpm/dpkg depend on the bash. If you want to use a super-fast-shell, then use "#!/bin/super-fast-shell" at the top and make the rpm/dpkg depend on the super-fast-shell. Why try to write a script which runs with bash and super-fast-shell? Compare this to python/perl: Have you ever considered to write a script which can be executed by the Perl and by the python interpreter :-) ?
 
-# Skolelinux (and custom distributions)
+# Skolelinux (and other custom Linux distributions)
 
 > Skolelinux/Debian-Edu is a Linux distribution intended for educational use and a Debian Pure Blend. The free and open source software project was founded in Norway in 2001 and is now being internationally developed.
 
@@ -387,6 +387,14 @@ It is discriminating. Why invest time and money into a custom Linux distribution
 
 But how to provide useful service to help people? You need to lower the barrier. Installing a Linux distribution is a lot of effort. You won't reach many people. An application that works on Windows, Linux, and Mac will reach more people. An application which just requires a web browser reaches nearly everybody.
 
+# VPN: Virtual Private Networks
+
+VPNs are still wide-spread. You can't see a down trend in the [Google Trend for VPN](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F012t0g). This is guess that VPNs will get used less often in the future.
+
+https exists. Why a second security layer? Of course there are a lot of use-cases where you need more than one layer. 
+But for most cases https is enough.
+
+If you don't need a network drive any more (since you use GSuite, Office 365 or Nextcloud), then it is likely that you don't need an VPN any more.
 
 # Epilogue
 
