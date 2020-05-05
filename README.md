@@ -396,6 +396,10 @@ But for most cases https is enough.
 
 If you don't need a network drive any more (since you use GSuite, Office 365 or Nextcloud), then it is likely that you don't need an VPN any more.
 
+# Download
+
+Today, you hardly download anymore. See [Google Trend for "Download"](https://trends.google.com/trends/explore?date=all&geo=US&q=download,%2Fm%2F0bm3b)
+
 # Epilogue
 
 You use some tools or methods which are dated? No need to follow every hype, but you would never do this again if you could start from scratch.
