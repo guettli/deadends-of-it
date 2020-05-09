@@ -394,6 +394,7 @@ If you don't need a network drive any more (since you use GSuite, Office 365 or 
 
 The future is "Sign in with [Google|Facebook|Microsoft|...]" via [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect)
 
+And since https gets used, and not http, it does not make sense to have a Proxy in the LAN. Of course on the server-side software like [HAProxy](https://en.wikipedia.org/wiki/HAProxy) makes sense.
 
 # Download
 
