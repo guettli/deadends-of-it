@@ -383,14 +383,14 @@ It is discriminating. Why invest time and money into a custom Linux distribution
 
 But how to provide useful service to help people? You need to lower the barrier. Installing a Linux distribution is a lot of effort. You won't reach many people. An application that works on Windows, Linux, and Mac will reach more people. An application which just requires a web browser reaches nearly everybody.
 
-# LDAP and VPN
+# LAN, LDAP and VPN
 
-VPNs are still wide-spread. You can't see a down trend in the [Google Trend for VPN, LDAP, Active Directory](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F012t0g,%2Fm%2F04plq,%2Fm%2F011bm). This is a guess that VPNs will get used less often in the future.
+VPNs are still wide-spread. You can't see a down trend in the [Google Trend for VPN, LDAP, Active Directory](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F012t0g,%2Fm%2F04plq,%2Fm%2F011bm). This is a guess that LAN, LDAP, VPNs etc will get used less often in the future.
 
 https exists. Why a second security layer? Of course there are a lot of use-cases where you need more than one layer. 
 But for most cases https is enough.
 
-If you don't need a network drive any more (since you use GSuite, Office 365 or Nextcloud), then it is likely that you don't need a VPN any more.
+If you don't need a network drive any more (since you use GSuite, Office 365 or Nextcloud), then it is likely that you don't need a VPN any more. Leaving a very skinny almost serverless LAN.
 
 The future is "Sign in with [Google|Facebook|Microsoft|...]" via [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect)
 
