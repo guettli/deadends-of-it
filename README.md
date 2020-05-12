@@ -373,7 +373,7 @@ But how to provide useful service to help people? You need to lower the barrier.
 
 # LAN, LDAP and VPN
 
-VPNs are still wide-spread. You can't see a down trend in the [Google Trend for VPN, LDAP, Active Directory](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F012t0g,%2Fm%2F04plq,%2Fm%2F011bm). This is a guess that LAN, LDAP, VPNs etc will get used less often in the future.
+LAN, VPNs etc are still wide-spread. You can't see a down trend in the [Google Trend for VPN, LDAP, Active Directory](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F012t0g,%2Fm%2F04plq,%2Fm%2F011bm). This is a guess that LAN, LDAP, VPNs etc will get used less often in the future.
 
 https exists. Why a second security layer? Of course there are a lot of use-cases where you need more than one layer. 
 But for most cases https is enough.
