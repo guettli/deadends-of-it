@@ -106,16 +106,14 @@ Nagios was once the number 1 monitoring solution. Time has changed. I guess most
 
 # Programming languages
 
-Low-level languages like assembly, C, C++ are the building blocks of higher-level languages. But the usage of these languages is in decline or constant low. Here in comparison with Python: http://sotagtrends.com/?tags=[assembly,c,c%2B%2B,python]. Nobody wants to call `malloc()` and `free()` any more.
+Low-level languages like assembly, C, C++ are the building blocks of higher-level languages. But the usage of these languages is in decline or constant low. Nobody wants to call `malloc()` and `free()` any more. I would never
+start a project with one of these languages today. If you are working with embedded systems, device drivers or kernel
+modules, then this is different. 
 
 I just don't know if XSLT is a programming language or a data format. I never liked it. It was way too verbose, it was complicated to write. It was not a real programming language and simple things got complicated soon.
-I am happy to see XSLT going: http://sotagtrends.com/?tags=[xslt]
+I am happy to see XSLT going: [Stackoverflow Tag-Trend](http://sotagtrends.com/?tags=[xslt])
 
-Perl vs Python: http://sotagtrends.com/?tags=[perl,python]
-
-C# vs Ruby vs Python: http://sotagtrends.com/?tags=[c%23,python,ruby]
-
-Shell Scripts: https://trends.google.de/trends/explore?date=all&q=shell%20scripts (I use the shell interactively daily. But I stopped writing shell scripts several years ago. Either the script is important (then I would do it with a better language and store it in git) xor it is unimportant.
+Shell Scripts ([Google trend for shell scripts](https://trends.google.de/trends/explore?date=all&q=shell%20scripts)): I use the shell interactively daily. But I stopped writing shell scripts several years ago. Either the script is important (then I would do it with a better language and store it in git) xor it is unimportant.
 
 # One Spec, several Implementations
 
