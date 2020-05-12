@@ -55,9 +55,9 @@ From Wikipedia: SOAP (abbreviation for Simple Object Access Protocol) is a messa
 
 https://en.wikipedia.org/wiki/SOAP
 
-Me: It is too complicated. It is overengineered. The client for python was not updated for months. Dead.
+Me: It is too complicated. It is overengineered. Still wide spread, but I would not start a new project with it.
 
-XML-RPC was nice, too. Simpler than soap. But same here: dead.
+XML-RPC was nice, too. Simpler than soap. But same.
 
 WSDL: The Web Services Description Language is an XML-based interface description language that is used for describing the functionality offered by a web service.
 
@@ -108,8 +108,6 @@ Nagios was once the number 1 monitoring solution. Time has changed. I guess most
 
 Low-level languages like assembly, C, C++ are the building blocks of higher-level languages. But the usage of these languages is in decline or constant low. Here in comparison with Python: http://sotagtrends.com/?tags=[assembly,c,c%2B%2B,python]. Nobody wants to call `malloc()` and `free()` any more.
 
-Java was a big hype and is still widespread. It is no "dead-end" yet, but declining: http://sotagtrends.com/?tags=[python,java] In 2003 I was seeking a new job in a new city (Chemnitz). Most jobs for software developers were for Java or C/C++ developers. But I found a company where I can use Python daily ([tbz-pariv](http://www.tbz-pariv.de/))
-
 I just don't know if XSLT is a programming language or a data format. I never liked it. It was way too verbose, it was complicated to write. It was not a real programming language and simple things got complicated soon.
 I am happy to see XSLT going: http://sotagtrends.com/?tags=[xslt]
 
@@ -117,8 +115,7 @@ Perl vs Python: http://sotagtrends.com/?tags=[perl,python]
 
 C# vs Ruby vs Python: http://sotagtrends.com/?tags=[c%23,python,ruby]
 
-Shell Scripts: https://trends.google.de/trends/explore?date=all&q=shell%20scripts (I use the shell interactively daily. But I stopped
-writing shell scripts several years ago. Either the script is important (then I would do it with Python and store it in git) xor it is unimportant.
+Shell Scripts: https://trends.google.de/trends/explore?date=all&q=shell%20scripts (I use the shell interactively daily. But I stopped writing shell scripts several years ago. Either the script is important (then I would do it with a better language and store it in git) xor it is unimportant.
 
 # One Spec, several Implementations
 
