@@ -127,7 +127,7 @@ The pattern "One spec, several implementations" is useful for protocols like htt
 
 At least for Java Enterprise Edition and Enterprise Beans, the trend looks black: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0bs6x,%2Fm%2F0br1c
 
-In 2019 Internet-Explorer switched to use the chrome engine. I guess Firefox will do the same sooner or later. Maybe there will be only one engine in some years.
+Edge was rebuilt as a Chromium-based browser in 2019. I guess Firefox will do the same sooner or later. Maybe there will be only one engine in some years.
 
 [Business Process Execution Language](https://en.wikipedia.org/wiki/Business_Process_Execution_Language) was a standard executable language for specifying actions within business processes (aka workflows). Dead: [Trends of "BPEL"](https://trends.google.com/trends/explore?date=all&q=BPEL)
 
