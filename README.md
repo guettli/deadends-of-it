@@ -103,13 +103,6 @@ Nagios was once the number 1 monitoring solution. Time has changed. I guess most
 
 [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software)) gets used much less these days. See [Google trend vagrant](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0jwtqm2)
 
-# Architecture (Web)
-
-## LAMP Stack
-Linux, Apache, MySQL, Perl/Python: http://sotagtrends.com/?tags=[jamstack,lamp]
-
-JAMStack is coming?
-
 
 # Programming languages
 
