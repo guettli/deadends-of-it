@@ -8,7 +8,7 @@ Here is a list of things I have seen going. Some former hypes, some things that 
 
 "All we are is dust in the wind" (Songwriter: Kerry Livgren)
 
-Most things I list below to get used daily by a lot of people and are mature solutions. But I won't go this way if they could start from scratch.
+Most things I list below to get used daily by a lot of people and are mature solutions. But I won't go this way if I could start from scratch.
 
 ## Native GUI development
 
