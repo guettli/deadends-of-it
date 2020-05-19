@@ -53,7 +53,7 @@ Stateless APIs have won.
 Corba gave you references to remote objects. Sounds great at the beginning. But stateless APIs (via HTTP) are simpler. 
 And simpler is better than "wow".
 
-http://sotagtrends.com/?tags=[corba,protocol-buffers]
+[Stackoverflow Trend for "corba"](http://sotagtrends.com/?tags=[corba])
 
 ## Microsoft COM
 
@@ -61,13 +61,15 @@ http://sotagtrends.com/?tags=[corba,protocol-buffers]
 
 It is very uncommon to automate MS-Word or Excel via COM these days. I am happy.
 
+Of course there are a lot of developers who still automate native GUIs on windows PCs these days. If
+I would be one of them, then I would try to find a new job with a better prospects for the future.
+
 ## SOAP, WSDL
 
 From Wikipedia: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality, and independence. It uses XML Information Set for its message format and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP) or Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission. 
 
-https://en.wikipedia.org/wiki/SOAP
 
-Me: It is too complicated. It is overengineered. Still wide spread, but I would not start a new project with it.
+It is too complicated. It is overengineered. Still wide spread, but I would not start a new project with it.
 
 XML-RPC was nice, too. Simpler than soap. But same.
 
@@ -83,7 +85,7 @@ XML was a very big hype. Again: Way too complicated. Not simple enough. JSON (cu
 
 http://sotagtrends.com/?tags=[xml,json]
 
-BUT: Binary data, native time format, time delta, and other things are missing. I think protocol-buffers would be great for exchanging data between systems, but up to now, only a few people think like this.
+BUT: Binary data, native time format, time delta, and other things are missing in JSON. I think protocol-buffers would be great for exchanging data between systems, but up to now, only a few people think like this.
 
 ## latin1, windows-cp-1252 ...
 
