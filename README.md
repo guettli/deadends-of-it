@@ -406,4 +406,4 @@ Today, you hardly download anymore. See [Google Trend for "Download"](https://tr
 
 You use some tools or methods which are dated? No need to follow every hype, but you would never do this again if you could start from scratch.
 
-Lesson learned: The [Bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) eats diversity. [The winner takes it all](https://www.youtube.com/watch?v=92cwKCU8Z5c)
+Lesson learned: The [Bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) eats diversity. [The winner takes it all](https://www.youtube.com/watch?v=92cwKCU8Z5c). Don't blame me. I like diversity. I am just observing the trends.
