@@ -18,19 +18,29 @@ no sense any more. You see the trend on the famous Question+Answer Site: [gtk an
 
 ## Network File Systems
 
-NFS (Network File System). Today people either use https://en.wikipedia.org/wiki/Server_Message_Block to access files on a network share, or they use a web-based file service (DropBox, Google Drive, Microsoft OneDrive, Nextcloud, ...)
+Today NFS (Network File System) in a PC LAN does not make much sense any more.
 
-Today application servers talk to storage servers using simple protocols like s3 to store and retrieve blobs, not NFS.
+Today people either use [SMB](https://en.wikipedia.org/wiki/Server_Message_Block) to access files on a network share, or they use a web-based file service (DropBox, Google Drive, Microsoft OneDrive, Nextcloud, ...)
 
+Concerning server-to-server communication: If you start from scratch, then you will use protocols like s3 to store and retrieve blobs. There are still a lot of NFS based solution for server-to-server communication, but I would use a [Ceph-based](https://docs.ceph.com/docs/mimic/radosgw/s3/) solution, if I could start from scratch.
 
-Same for WebDAV. 
-http://sotagtrends.com/?tags=[nfs,webdav]
+# WebDAV
+
+Sad, but true, WebDAV didn't make it. Don't ask my why. It could have been very cool. DropBox was simpler and soon many vendors came up with a own and proprietary DropBox clone.
+
+[NFS and WebDAV downtrend on Stackoverflow](http://sotagtrends.com/?tags=[nfs,webdav])
 
 ## OwnCloud
-Owncloud (ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox) was great some months ago. I switched to Nextcloud like most other users:
+
+Owncloud is a suite of client-server software for creating and using file hosting services. 
+
+OwnCloud functionally has similarities to the widely used Dropbox. It was great some months ago. 
+
+But most developers and useres switched to Nextcloud:
 
 http://sotagtrends.com/?tags=[owncloud,nextcloud]
 
+Related: [Why I forked my own project and my own company ownCloud to Nextcloud (YouTube)](https://www.youtube.com/watch?v=UTKvLSnFL6I)
 
 # API and Data Exchange
 
