@@ -4,15 +4,17 @@ I was born in 1976, learned programming 1989, studied information technology 199
 
 I am 43 years old now. I have seen a lot of hypes coming and going.
 
-Here is a list of things I have seen going. Some former hypes, some things that never started. 
+Here is a list of things which I would not use, if I could start from scratch.
 
-"All we are is dust in the wind" (Songwriter: Kerry Livgren)
+Most things I list below to get used daily by a lot of people and are mature solutions.
 
-Most things I list below to get used daily by a lot of people and are mature solutions. But I won't go this way if I could start from scratch.
 
 ## Native GUI development
 
-GUI development: gtk and qt: http://sotagtrends.com/?tags=[gtk,qt]
+Today I would always start with a browser based interface. Native GUI development for desktops makes
+no sense any more. You see the trend on the famous Question+Answer Site: [gtk and qt trend at Stackoverflow]( http://sotagtrends.com/?tags=[gtk,qt])
+
+
 
 ## Network File Systems
 
