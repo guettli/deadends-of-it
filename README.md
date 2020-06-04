@@ -143,6 +143,11 @@ Edge was rebuilt as a Chromium-based browser in 2019. I guess Firefox will do th
 
 [Business Process Execution Language](https://en.wikipedia.org/wiki/Business_Process_Execution_Language) was a standard executable language for specifying actions within business processes (aka workflows). Dead: [Trends of "BPEL"](https://trends.google.com/trends/explore?date=all&q=BPEL)
 
+Current things which don't have a formal spec (just on implementation): React, TypeScript, git, golang, kubernetes, ...
+
+Current things which have a formal spec: [WebRTC](https://en.wikipedia.org/wiki/WebRTC), http, [HTML Living Standard](https://en.wikipedia.org/wiki/HTML#Transition_of_HTML_Publication_to_WHATWG), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), ...
+
+
 # Regular Expressions
 
 Parsing text with regular expressions is like eating rubbish. In the 21 century, we send and receive data structures. We don't send strings that the receiver needs to parse.
@@ -401,6 +406,28 @@ And since https gets used, and not http, it does not make sense to have a Proxy 
 # Download
 
 Today, you hardly download anymore. See [Google Trend for "Download"](https://trends.google.com/trends/explore?date=all&geo=US&q=download,%2Fm%2F0bm3b)
+
+# Native Apps
+
+It is a lot of work to create native apps for mobile devices. You need to support Android and iOS.
+
+Why not just create a web page with [Responsive Web Design](https://en.wikipedia.org/wiki/Responsive_web_design)?
+
+In most cases this is enough.
+
+But people love apps! Yes, people love a lot of strange things .. like conspiracy theories.
+
+Sooner or later you will be able to get [Progressive web applications](https://en.wikipedia.org/wiki/Progressive_web_application) into the AppStores. AFAIK this already works for google and amazon. Only Apple is missing up to now. Then you can install them via a store and there is almost no reason anymore to create a native app.
+
+
+
+
+
+# Future
+
+I think [V8 (JavaScript Engine)[https://en.wikipedia.org/wiki/V8_(JavaScript_engine)] will play a major role in the future of IT. It is the fastest JavaScript engine. It inside the most popular browers (Chrome and Edge) and on the server (Node.js). And the good news if you don't like IT details: you don't need to remember this. It will be just there, executing very fast to give you a great experience.
+
+You don't need to install or update programms, plugins or apps. You, the end-user has one tool: Chrome.
 
 # Epilogue
 
