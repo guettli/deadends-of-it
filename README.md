@@ -431,6 +431,6 @@ You don't need to install or update programms, plugins or apps. You, the end-use
 
 # Epilogue
 
-You use some tools or methods which are dated? No need to follow every hype, but you would never do this again if you could start from scratch.
+You use some tools or methods which are dated? There is no need to follow every hype, but I think it is healthy to ask one-self from time to time "Would I do this like this, if could start from scratch?".
 
 Lesson learned: The [Bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect) eats diversity. [The winner takes it all](https://www.youtube.com/watch?v=92cwKCU8Z5c). Don't blame me. I like diversity. I am just observing the trends.
