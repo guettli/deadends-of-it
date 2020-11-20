@@ -328,6 +328,8 @@ Up to now (2019) I still use jQuery. But I was told by several JavaScript develo
 
 Synthetic JavaScript benchmarks don't make sense. See why octane was retired: https://v8.dev/blog/retiring-octane
 
+Creating nice layouts with tables and floats is dead. Flexbox is here.
+
 # Internet
 
 ## FTP
