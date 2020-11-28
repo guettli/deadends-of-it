@@ -392,6 +392,20 @@ It is discriminating. Why invest time and money into a custom Linux distribution
 
 But how to provide useful service to help people? You need to lower the barrier. Installing a Linux distribution is a lot of effort. You won't reach many people. An application that works on Windows, Linux, and Mac will reach more people. An application which just requires a web browser reaches nearly everybody.
 
+
+
+# The Linux Documentation Project
+
+When I started with Linux, I was happy that TLDP existed. This was around 1996 to 1998. Later I usualy had enough knowledge to help myself.
+
+Looking back it is makes sense that the project died.
+
+The Linux Documentation Project created "parallel" documentation. But this "parallel" documentation won't improve the upstream documentation. 
+For example a How-To about LDAP. Maybe this helped someone who was new to the topic, but the upstream pushes forward and creates new features, changes configuration and soon the parallel documentation is outdated. Who cares?
+At least the upstream developers don't care for the outdated parallel documentation, and that's 100% ok. 
+
+Leasson learned: If the upstream docs are not good, then try to improve the upstream documentation. Don't create parallel documentation.
+
 # LAN, LDAP and VPN
 
 LAN, VPNs etc are still wide-spread. You can't see a down trend in the [Google Trend for VPN, LDAP, Active Directory](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F012t0g,%2Fm%2F04plq,%2Fm%2F011bm). This is a guess that LAN, LDAP, VPNs etc will get used less often in the future.
