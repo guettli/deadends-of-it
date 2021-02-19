@@ -83,7 +83,7 @@ http://sotagtrends.com/?tags=[soap,xml-rpc,wsdl]
 ## XML
 XML was a very big hype. Again: Way too complicated. Not simple enough. JSON (current hype) is much better to exchange data since it supports some simple data types (int, string, list, dictionaries)
 
-http://sotagtrends.com/?tags=[xml,json]
+[Google Trend: xml, json](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05cntt,%2Fm%2F08745)
 
 BUT: Binary data, native time format, time delta, and other things are missing in JSON. I think protocol-buffers would be great for exchanging data between systems, but up to now, only a few people think like this.
 
