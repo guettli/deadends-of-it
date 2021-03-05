@@ -342,9 +342,17 @@ In the past, it was common to run a script that detects which mirror is the best
 
 
 
-# Jenkins
+# CI
 
-It is still actively used. But the future looks black - GitLab is coming: http://sotagtrends.com/?tags=[jenkins,gitlab]
+## Jenkins
+
+It is still actively used. But the future looks black. Github Actions and GitLab CI are coming: http://sotagtrends.com/?tags=[jenkins,gitlab]
+
+## Travis
+
+Travis was the prefered CI system for Github projects for serveral years. With the release of Github Action, the usage has decreased:
+
+Google trend: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0jwwmpp
 
 # Portability
 
