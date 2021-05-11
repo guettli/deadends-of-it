@@ -77,6 +77,12 @@ WSDL: The Web Services Description Language is an XML-based interface descriptio
 
 http://sotagtrends.com/?tags=[soap,xml-rpc,wsdl]
 
+## From UML diagram to source code
+
+I am very happy that today only few people think that it is cool to first create URML diagrams, and then automatically
+create source code from the UML diagram.
+
+Some years ago many people thought that creating code from an application which lets you draw boxes and arrows is the future.
 
 # Data formats
 
