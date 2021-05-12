@@ -218,9 +218,9 @@ Modern applications use storage services.
 
 # Communication
 
-Roughly until 2004 I used [Usenet](https://en.wikipedia.org/wiki/Usenet). Which was replaced by [mailing lists](https://en.wikipedia.org/wiki/Mailing_list)
+Mailinglists are dead. Once you sent your message, you can't edit it any more. That's a very outdated way.
 
-But today I use StackOverflow, other sites from StackExchange, Reddit and Facebook Groups. Github issues get used to ask questions, too.
+Today you use StackOverflow, other sites from StackExchange, Reddit and Facebook Groups. Github issues get used to ask questions, too.
 
 I like this change. This buries the never-ending discussion if the reply on a mailing-list should go to the list or to the author of the mail. 
 
