@@ -133,7 +133,11 @@ modules, then this is different.
 I just don't know if XSLT is a programming language or a data format. I never liked it. It was way too verbose, it was complicated to write. It was not a real programming language and simple things got complicated soon.
 I am happy to see XSLT going: [Stackoverflow Tag-Trend](http://sotagtrends.com/?tags=[xslt])
 
-Shell Scripts ([Google trend for shell scripts](https://trends.google.de/trends/explore?date=all&q=shell%20scripts)): I use the shell interactively daily. But I stopped writing shell scripts several years ago. Either the script is important (then I would do it with a better language and store it in git) xor it is unimportant.
+Perl
+
+Lisp
+
+Shell Scripts ([Google trend for shell scripts](https://trends.google.de/trends/explore?date=all&q=shell%20scripts)): I use the shell interactively daily. But I stopped writing non-conditionless shell scripts several years ago. Either the script is important (then I would do it with a better language and store it in git) xor it is unimportant. For running a sequence of commands (conditionless) the shell is still handy.
 
 # One Spec, several Implementations
 
