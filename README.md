@@ -14,6 +14,9 @@ Most things I list below to get used daily by a lot of people and are mature sol
 Today I would always start with a browser based interface. Native GUI development for desktops makes
 no sense any more. You see the trend on the famous Question+Answer Site: [gtk and qt trend at Stackoverflow]( http://sotagtrends.com/?tags=[gtk,qt])
 
+Does someone remember Visual Basic? IRRC: in the year 2000 almost all job offerings for GUI development asked for Visual Basic knowledge.
+
+I think HTML+CSS will stay, but maybe React/Vue might leave us.
 
 
 ## Network File Systems
