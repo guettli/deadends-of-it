@@ -359,7 +359,7 @@ If you still use FTP consider using [tbzuploader](https://github.com/tbz-pariv/t
 
 In the past, it was common to run a script that detects which mirror is the best for your particular internet connection. Of course, debian/ubuntu packages and other stuff still gets mirrored. But in most cases, it is not needed anymore.
 
-
+Today [CDNs](https://en.wikipedia.org/wiki/Content_delivery_network) getting static data fast and easy.
 
 # CI
 
