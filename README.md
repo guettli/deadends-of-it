@@ -12,7 +12,7 @@ Most things I list below to get used daily by a lot of people and are mature sol
 ## Native GUI development
 
 Today I would always start with a browser based interface. Native GUI development for desktops makes
-no sense any more. You see the trend on the famous Question+Answer Site: [gtk and qt trend at Stackoverflow]( http://sotagtrends.com/?tags=[gtk,qt])
+no sense any more. You see the trend on the famous Question+Answer Site: [gtk and qt trend at Stackoverflow](http://sotagtrends.com/?tags=[gtk,qt])
 
 Does someone remember Visual Basic? IIRC: in the year 2000 almost all job offerings for GUI development asked for Visual Basic knowledge.
 
@@ -468,7 +468,7 @@ Sooner or later you will be able to get [Progressive web applications](https://e
 
 # Future
 
-I think [V8 (JavaScript Engine)](https://en.wikipedia.org/wiki/V8_(JavaScript_engine) will play a major role in the future of IT. It is the fastest JavaScript engine. It inside the most popular browers (Chrome and Edge) and on the server (Node.js). And the good news if you don't like IT details: you don't need to remember this. It will be just there, executing very fast to give you a great experience.
+I think [V8 (JavaScript Engine)](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) will play a major role in the future of IT. It is the fastest JavaScript engine. It inside the most popular browers (Chrome and Edge) and on the server (Node.js). And the good news if you don't like IT details: you don't need to remember this. It will be just there, executing very fast to give you a great experience.
 
 You don't need to install or update programms, plugins or apps. You, the end-user has one tool: Chrome.
 
