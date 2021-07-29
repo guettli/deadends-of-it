@@ -45,6 +45,12 @@ http://sotagtrends.com/?tags=[owncloud,nextcloud]
 
 Related: [Why I forked my own project and my own company ownCloud to Nextcloud (YouTube)](https://www.youtube.com/watch?v=UTKvLSnFL6I)
 
+# Server Operating Systems
+
+In the past there have been AIX, HPUX, Solaris, FreeBSD, NetBSD, ...
+
+The winner takes it all: Linux
+
 # API and Data Exchange
 
 ## Corba
