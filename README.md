@@ -417,7 +417,7 @@ Same for [Debian Med](https://en.wikipedia.org/wiki/Debian_Pure_Blend#Debian-Med
 > The Debian Med project is a Debian Pure Blend created to provide a co-ordinated operating system and collection of 
 > available free software packages that are well-suited for the requirements for medical practices and medical research.
 
-Sounds good. Sounds like [the practice of charity](https://en.wikipedia.org/wiki/Charity_(practice). Charity gives you and me a warm feeling inside. 
+Sounds good. Sounds like [the practice of charity](https://en.wikipedia.org/wiki/Charity_(practice)). Charity gives you and me a warm feeling inside. 
 
 It is discriminating. Why invest time and money into a custom Linux distribution if only a few people benefit from it? It feels less like charity, but in reality, it is more generosity if you help to develop something generic which helps everybody.
 
