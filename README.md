@@ -207,6 +207,8 @@ Ubuntu-Phone. Don't ask me why Mark Shuttleworth ever thought this will be a suc
 
 Chef and Puppet (the older ones) and Ansible and Salt are the new ones. In 2013 it was not clear who will win the race. Today in 2019 it is clear. Ansible has won: http://sotagtrends.com/?tags=[salt-stack,ansible,chef,puppet]
 
+But things have changed. You configure less servers today. Most applications run in containers, and for setting up a container most people use the shell (or `RUN` commands in a Dockerfile). These scripts are straight forward and mostly are conditionless (without "if" and "else").
+
 # Backup
 
 Of course, making a backup of data is still done often and makes sense. But it gets done less often.
