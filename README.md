@@ -343,6 +343,8 @@ Java Applets running in the web browser are dead: https://trends.google.com/tren
 
 Same for Adobe Flash Player: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05qh6g
 
+XHTML is dead. I am very happy that the relaxed html5 syntax has won. Less characters to type and less characters to read make development faster.
+
 In the year 2001, when I finished my studies, I never thought the trend will be like this. In the beginning, the language JavaScript was not taken seriously. Today JavaScript is even running on the server.
 
 Up to now (2019) I still use jQuery. But I was told by several JavaScript developers, that if you start from scratch today, you don't need jquery and more. The tag trend is clear: http://sotagtrends.com/?tags=[jquery]
