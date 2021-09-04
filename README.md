@@ -454,6 +454,19 @@ The Proxy between the web-browser and the internet is dead. Since https gets use
 
 Today, you hardly download anymore. See [Google Trend for "Download"](https://trends.google.com/trends/explore?date=all&geo=US&q=download,%2Fm%2F0bm3b)
 
+In the future young people won't know what a "file" or a "directory" is. And I think that's cool.
+
+# Alternatives to Android and iOS
+
+* Nokia
+* [MeeGo](https://en.wikipedia.org/wiki/MeeGo)
+* [Windows 10 mobile](https://en.wikipedia.org/wiki/Windows_10_Mobile)
+* [BlackBerry](https://en.wikipedia.org/wiki/BlackBerry)
+
+....
+
+Android and iOS have won. I am curious if there will ever be alternative mobile operating system with a noticable market share.
+
 # Native Apps
 
 It is a lot of work to create native apps for mobile devices. You need to support Android and iOS.
