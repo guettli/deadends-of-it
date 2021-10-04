@@ -148,6 +148,8 @@ Lisp
 
 Shell Scripts ([Google trend for shell scripts](https://trends.google.de/trends/explore?date=all&q=shell%20scripts)): I use the shell interactively daily. But I stopped writing non-conditionless shell scripts several years ago. Either the script is important (then I would do it with a better language and store it in git) xor it is unimportant. For running a sequence of commands (conditionless) the shell is still handy.
 
+Domain-specific languages. I am happy that most people understood now that there are domain-specific **datastructures**. But there is no need for Domain-specific languages. See the down-trend [Google Trends for Domain-specific language](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02kwvw)
+
 # One Spec, several Implementations
 
 C, C++, Java Enterprise Edition, SQL and a lot of other development tools used the pattern "one specification, several implementations". I think this pattern is outdated. Modern tools (Python, TypeScript, Kubernetes, Go, Rust, Linux, ...) implement what's useful. No need to do this twice.
