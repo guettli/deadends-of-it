@@ -313,6 +313,12 @@ Now, in the year 2019, I think there are no real arguments pro microkernel. Nice
 
 But there are micro-kernel-based operating systems like: https://genode.org/
 
+# RPM/DPKG Package format for custom packages
+
+Unfortunately every programming language brings its own package manager. For example Python uses pip. The number of RPM/DPKG packages needed for software development is getting smaller and smaller. Only the fundamental servers are needed. Most libraries needed for software development are installed via the package manager of the corresponding programming language.
+
+Creating custom packages in RPM/DPKG format is outdated.
+
 # RAW photo format
 
 When I bought my first reflex camera (Canon 50D) most friends who already had a reflex camera told me that it is great because you can make photos in the raw image format. This raw format contains much more information and this is much, much better for post-processing.
