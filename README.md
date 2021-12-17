@@ -45,12 +45,32 @@ http://sotagtrends.com/?tags=[owncloud,nextcloud]
 
 Related: [Why I forked my own project and my own company ownCloud to Nextcloud (YouTube)](https://www.youtube.com/watch?v=UTKvLSnFL6I)
 
-# Server Operating Systems
+# Operating Systems
+
+## Server Operating Systems
 
 In the past there have been AIX, HPUX, Solaris, FreeBSD, NetBSD, ...
 
 The winner: Linux for servers.
 
+
+## Mobile Devices Operating Systems
+
+Dead:
+
+* Nokia
+* [MeeGo](https://en.wikipedia.org/wiki/MeeGo)
+* [Windows 10 mobile](https://en.wikipedia.org/wiki/Windows_10_Mobile)
+* [BlackBerry](https://en.wikipedia.org/wiki/BlackBerry)
+
+....
+
+Android and iOS have won. I am curious if there will ever be alternative mobile operating system with a noticable market share.
+
+## Desktop Operating Systems
+
+... Here nothing much has changed. MacOS increased its market share a bit. But overall it is
+roughly the same for years: [Global market share held by operating systems for desktop PCs, from January 2013 to June 2021](https://www.statista.com/statistics/218089/global-market-share-of-windows-7/#main-content)
 
 # API and Data Exchange
 
@@ -464,17 +484,6 @@ The Proxy between the web-browser and the internet is dead. Since https gets use
 Today, you hardly download anymore. See [Google Trend for "Download"](https://trends.google.com/trends/explore?date=all&geo=US&q=download,%2Fm%2F0bm3b)
 
 In the future young people won't know what a "file" or a "directory" is. And I think that's cool.
-
-# Alternatives to Android and iOS
-
-* Nokia
-* [MeeGo](https://en.wikipedia.org/wiki/MeeGo)
-* [Windows 10 mobile](https://en.wikipedia.org/wiki/Windows_10_Mobile)
-* [BlackBerry](https://en.wikipedia.org/wiki/BlackBerry)
-
-....
-
-Android and iOS have won. I am curious if there will ever be alternative mobile operating system with a noticable market share.
 
 # Native Apps
 
