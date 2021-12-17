@@ -49,7 +49,8 @@ Related: [Why I forked my own project and my own company ownCloud to Nextcloud (
 
 In the past there have been AIX, HPUX, Solaris, FreeBSD, NetBSD, ...
 
-The winner takes it all: Linux
+The winner: Linux for servers.
+
 
 # API and Data Exchange
 
