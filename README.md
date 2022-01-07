@@ -2,7 +2,7 @@
 
 I was born in 1976, learned programming 1989, studied information technology 1996-2001, and worked since then in this business.
 
-I am 43 years old now. I have seen a lot of hypes coming and going.
+I am 46 years old now. I have seen a lot of hypes coming and going.
 
 Here is a list of things which I would not use, if I could start from scratch.
 
