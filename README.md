@@ -1,12 +1,12 @@
 # Deadends of Information Technology
 
-I was born in 1976, learned programming 1989, studied information technology 1996-2001, and worked since then in this business.
+I was born in 1976, learned programming in 1989, studied computer science in 1996-2001 and have worked in this industry ever since.
 
-I am 46 years old now. I have seen a lot of hypes coming and going.
+I am 46 years old now. I have seen a lot of hypes come and go.
 
-Here is a list of things which I would not use, if I could start from scratch.
+Most of the things I list below are used by many people every day and are mature solutions.
 
-Most things I list below to get used daily by a lot of people and are mature solutions.
+However, if you can start from scratch, I suggest you stop using these things.
 
 
 ## Native GUI development
