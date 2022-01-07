@@ -6,7 +6,7 @@ I am 46 years old now. I have seen a lot of hypes come and go.
 
 Most of the things I list below are used by many people every day and are mature solutions.
 
-However, if you can start from scratch, I suggest you stop using these things.
+However, if you can start from scratch, I suggest to not use them.
 
 
 ## Native GUI development
