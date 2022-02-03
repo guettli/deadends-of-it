@@ -181,13 +181,13 @@ The pattern "One spec, several implementations" is useful for protocols like htt
 
 At least for Java Enterprise Edition and Enterprise Beans, the trend looks black: https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0bs6x,%2Fm%2F0br1c
 
-Edge was rebuilt as a Chromium-based browser in 2019. I guess Firefox will do the same sooner or later. Maybe there will be only one engine in some years.
+Edge was rebuilt as a Chromium-based browser in 2019. Maybe Firefox will do the same sooner or later. Maybe there will be only one engine in some years.
 
 [Business Process Execution Language](https://en.wikipedia.org/wiki/Business_Process_Execution_Language) was a standard executable language for specifying actions within business processes (aka workflows). Dead: [Trends of "BPEL"](https://trends.google.com/trends/explore?date=all&q=BPEL)
 
-Current things which don't have a formal spec (just on implementation): React, TypeScript, git, golang, kubernetes, ...
+Current things which don't have a formal spec with several implementations. There is just on implementation, and this is fine: React, TypeScript, git, golang, kubernetes, ...
 
-Current things which have a formal spec: [WebRTC](https://en.wikipedia.org/wiki/WebRTC), http, [HTML Living Standard](https://en.wikipedia.org/wiki/HTML#Transition_of_HTML_Publication_to_WHATWG), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), ...
+Current software things which have a formal spec with several implementations: [WebRTC](https://en.wikipedia.org/wiki/WebRTC), http, [HTML Living Standard](https://en.wikipedia.org/wiki/HTML#Transition_of_HTML_Publication_to_WHATWG), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), CSS, web assembly, C, C++, tcp/ip, ethernet, Wifi,  ...
 
 
 # Regular Expressions
