@@ -497,8 +497,13 @@ But people love apps! Yes, people love a lot of strange things .. like conspirac
 
 Sooner or later you will be able to get [Progressive web applications](https://en.wikipedia.org/wiki/Progressive_web_application) into the AppStores. AFAIK this already works for google and amazon. Only Apple is missing up to now. Then you can install them via a store and there is almost no reason anymore to create a native app.
 
+# Mesos and other cluster manager
 
+> Apache Mesos is a cluster manager that provides an efficient, scalable, 
+> and robust way to share resources (CPUs, memory, disk, ports, et.) across
+> frameworks or applications that are distributed across a cluster of machines. 
 
+[Stagoverflow Tag-Trend: Mesos vs Kubernetes](http://sotagtrends.com/?tags=mesos+kubernetes)
 
 
 # Future
