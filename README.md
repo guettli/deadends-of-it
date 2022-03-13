@@ -423,7 +423,7 @@ Of course, this does not apply to all software. General-purpose things like comp
 
 "Portable shell scripts?" ... HELP! Don't waste your time writing portable shell scripts.
 
-Portability across different browsers? The situations can't be compared to the past. Today you use a library like jquery, React or Angular and only rough edge cases are not portable.
+Portability across different browsers? The situations can't be compared to the past, IE is dead.
 
 Look at all the confusion and useless work that was created by thinking writing a bash script is evil. The term "Bashism" was created and over-committed people started to make things more complicated instead of easier. See https://wiki.ubuntu.com/DashAsBinSh Depending on my mood this makes me laugh or sometimes cry. The DashAsBinSh page contains so many things to consider. But according to my point of view, the most important thing is missing. The "why?" is missing. I see no real reason, no measurable benefit. If you want to use the bash use "#!/bin/bash" at the top and make the rpm/dpkg depend on the bash. If you want to use a super-fast-shell, then use "#!/bin/super-fast-shell" at the top and make the rpm/dpkg depend on the super-fast-shell. Why try to write a script which runs with bash and super-fast-shell? Compare this to python/perl: Have you ever considered to write a script which can be executed by the Perl and by the python interpreter :-) ?
 
