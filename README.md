@@ -18,6 +18,9 @@ Does someone remember Visual Basic? IIRC: in the year 2000 almost all job offeri
 
 I think HTML+CSS will stay, but maybe React/Vue might leave us.
 
+The current evolution is blocked by Apple because they force everybody to use WebKit in iOS.
+
+See: [open-web-advocacy.org](https://open-web-advocacy.org/)
 
 ## Network File Systems
 
