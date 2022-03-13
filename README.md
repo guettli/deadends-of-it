@@ -184,7 +184,7 @@ Domain-specific languages. I am happy that most people understood now that there
 
 # One Spec, several Implementations
 
-C, C++, Java Enterprise Edition, SQL and a lot of other development tools used the pattern "one specification, several implementations". I think this pattern is outdated. Modern tools (Python, TypeScript, Kubernetes, Go, Rust, Linux, ...) implement what's useful. No need to do this twice.
+C, C++, Java Enterprise Edition, SQL, TCP/IP and a lot of other development tools used the pattern "one specification, several implementations". I think this pattern is outdated. Modern tools (Python, TypeScript, Kubernetes, Go, Rust, Linux, ...) implement what's useful. No need to do this twice.
 
 In the year 2000, I asked on one of the many apache java mailing lists about a new feature/idea. The response of the developers (roughly): "Yes, it would be nice to have this feature. But first, we need to wait for the new specification to get published.". This was one of the reasons I switched from Java to Python.
 
