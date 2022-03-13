@@ -8,6 +8,7 @@ Most of the things I list below are used by many people every day and are mature
 
 However, if you can start from scratch, I suggest to not use them.
 
+[Slides of Presentation at Chemnitzer-Linux-Tage 2022](https://docs.google.com/presentation/d/1Z5Sook4j5a8egVNRNy43hEsROqSrbAMra8UMQ707nto/edit?usp=sharing)
 
 ## Native GUI development
 
