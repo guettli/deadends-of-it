@@ -65,6 +65,7 @@ Dead:
 * [MeeGo](https://en.wikipedia.org/wiki/MeeGo)
 * [Windows 10 mobile](https://en.wikipedia.org/wiki/Windows_10_Mobile)
 * [BlackBerry](https://en.wikipedia.org/wiki/BlackBerry)
+* [Ubuntu-Touch](https://en.wikipedia.org/wiki/Ubuntu_Touch)
 
 ....
 
@@ -225,9 +226,6 @@ Today, every desktop usage is decreasing. Mobile interfaces get used.
 
 And if you use a desktop you use the browser for most tasks. Software as a service eats the native GUI.
 
-# Hardware
-
-Ubuntu-Phone. Don't ask me why Mark Shuttleworth ever thought this will be a success. https://en.wikipedia.org/wiki/Ubuntu_Touch
 
 # Configuration Management
 
