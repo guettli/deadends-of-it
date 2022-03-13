@@ -133,6 +133,11 @@ BUT: Binary data, native time format, time delta, and other things are missing i
 
 Unicode has won. I am very happy. Poor guys who still need to fiddle with old character codes.
 
+## CSV
+
+Comma-Seperated-Values. Unfortunately this format is still wide spread. If you start from scratch, then please don't use it.
+
+
 # Applications
 
 Emacs: I used this text editor 14 years daily (2001-2015). I switched to PyCharm. http://sotagtrends.com/?tags=[emacs,pycharm]
