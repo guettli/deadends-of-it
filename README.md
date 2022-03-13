@@ -66,6 +66,8 @@ Dead:
 * [Windows 10 mobile](https://en.wikipedia.org/wiki/Windows_10_Mobile)
 * [BlackBerry](https://en.wikipedia.org/wiki/BlackBerry)
 * [Ubuntu-Touch](https://en.wikipedia.org/wiki/Ubuntu_Touch)
+* [Firefox OS](https://en.wikipedia.org/wiki/Firefox_OS)
+
 
 ....
 
