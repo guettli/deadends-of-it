@@ -330,6 +330,14 @@ Of course, there needs to someone for the hardware. But the server hardware will
 
 Sooner or later automation will eat all jobs.
 
+# Antivirus software
+
+In the past there where several third party solutions for protecting microsoft windows operating systems.
+
+Microsoft Windows got much more secure during the last years.
+
+Today you don't need third party solutions.
+
 # microkernel
 
 In the year 2000 when I was a student (HTW Dresden), I was very curious about
