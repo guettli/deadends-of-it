@@ -534,8 +534,8 @@ But there is no Python based CMS with broad adoption.
 
 [Wordpress, TYPO3, Drupal, Joomla at Google Trends](https://trends.google.de/trends/explore?date=all&q=%2Fm%2F02z6xz,%2Fm%2F02vtpl,%2Fm%2F01641s,%2Fm%2F07qb81)
 
-Of course there are commercial non-open-source content management systems, but these are in a different
-category according to my point of view.
+[Web Almanac 2022, Most popular CMSs](https://almanac.httparchive.org/en/2022/cms#most-popular-cmss)
+
 
 # Future
 
