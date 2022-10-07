@@ -522,6 +522,20 @@ Sooner or later you will be able to get [Progressive web applications](https://e
 
 [Stagoverflow Tag-Trend: Mesos vs Kubernetes](http://sotagtrends.com/?tags=mesos+kubernetes)
 
+# CMS: TYPO3, Drupal, Joomla
+
+The winner of open source content managment systems is WordPress. 
+
+If you want a simple open source CMS, use WordPress.
+
+I am bit sad about this, since I like the programming language Python.
+
+But there is no Python based CMS with broad adoption.
+
+[Wordpress, TYPO3, Drupal, Joomla at Google Trends](https://trends.google.de/trends/explore?date=all&q=%2Fm%2F02z6xz,%2Fm%2F02vtpl,%2Fm%2F01641s,%2Fm%2F07qb81)
+
+Of course there are commercial non-open-source content management systems, but these are in a different
+category according to my point of view.
 
 # Future
 
