@@ -263,6 +263,14 @@ I could not find a reliable reference, but AFAIK google used ext2 for their serv
 
 Modern applications use storage services.
 
+# Yast and similar Linux-Config UIs
+
+[Yast](https://en.wikipedia.org/wiki/YaST) was a tool for SuSE-Linux to configure the operating system.
+
+It tried to provide three interfaces: terminal, native GUI, web.
+
+Market share of SuSE and the need to interactively configure servers has decreased.
+
 # Communication
 
 Mailinglists are dead. Once you sent your message, you can't edit it any more. That's a very outdated way.
