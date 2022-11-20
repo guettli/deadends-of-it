@@ -155,6 +155,10 @@ KDE "The K desktop environment" was very widespread (at least in Germany) for so
 
 Nagios was once the number 1 monitoring solution. Time has changed. I guess most people would not start to use it today if they could start from scratch. Here Nagios compared with Zabbix, PRTG, check_mk: https://trends.google.com/trends/explore?date=all&q=nagios,%2Fm%2F03c9jx,%2Fg%2F11bc5wdh4r,%2Fm%2F0h_9jxz .... or [Prometheus](https://prometheus.io/) from the CNCF.
 
+# Commercial Databases like Oracle, Sybase
+
+I would not use a commercial database like Oracle, Sybase, ... today.
+
 # Cloud computing / Virtualization
 
 ## XEN
