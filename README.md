@@ -417,6 +417,14 @@ Creating nice layouts with tables is dead. Flexbox is here. Of course using tabl
 
 If you still use FTP consider using [tbzuploader](https://github.com/tbz-pariv/tbzuploader) which is a generic upload tool for HTTP. Of course, the server needs to support this. But this very simple: Just return "201 created" if the upload was successful.
 
+Which alternatives to FTP exist?
+
+May people don't know yet, that you can use OCI Artifacts as Storage. See [oras](//https://oras.land/).
+
+That has one big benefit: If client A starts an upload, and the upload gets interrupted, then client B does not see incomplete data. The content is accessible for other client only after a successful upload. I wasted a lot of time in the past because of incomplete files using FTP.
+
+I am happy that I don't have to use FTP in my current projects.
+
 ## Mirrors
 
 In the past, it was common to run a script that detects which mirror is the best for your particular internet connection. Of course, debian/ubuntu packages and other stuff still gets mirrored. But in most cases, it is not needed anymore.
