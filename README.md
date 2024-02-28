@@ -92,6 +92,12 @@ And simpler is better than "wow".
 
 [Stackoverflow Trend for "corba"](http://sotagtrends.com/?tags=[corba])
 
+## GraphQL
+
+I am happy that I never jumped on the GraphQL hype train:
+
+[Stackoverflow Trend for "GraphQL compared to OpenAPI"](http://sotagtrends.com/?tags=graphql+openapi&relative=true)
+
 ## Microsoft COM
 
 [Microsoft COM (Component Object Model)](https://en.wikipedia.org/wiki/Component_Object_Model)
@@ -216,11 +222,13 @@ https://trends.google.com/trends/explore?cat=32&date=all&q=regular%20expressions
 
 Parsing text with $YOUR_FAVORITE_TOOL is like eating rubbish.
 
-I still use these tools sometimes interactively, but I don't write shell scripts anymore.
+I still use these tools sometimes interactively, but I don't write shell scripts anymore. (Update 2024: Since I work as Kubernetes Cloud Engineer, I tend to write a shell script from time to time).
 
 # Browser war
 
 [Browser war](https://en.wikipedia.org/wiki/Browser_wars) Chrome has won.
+
+Except on iOS, where alternative browser engines are not supported yet. See [AppleBrowserBan](https://open-web-advocacy.org/apple-browser-ban/)
 
 # Linux on the desktop.
 
