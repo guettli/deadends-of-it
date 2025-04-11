@@ -29,7 +29,9 @@ Today NFS (Network File System) in a PC LAN does not make much sense any more.
 
 Today people either use [SMB](https://en.wikipedia.org/wiki/Server_Message_Block) to access files on a network share, or they use a web-based file service (DropBox, Google Drive, Microsoft OneDrive, Nextcloud, ...)
 
-Concerning server-to-server communication: If you start from scratch, then you will use protocols like s3 to store and retrieve blobs. There are still a lot of NFS based solution for server-to-server communication, but I would use a [Ceph-based](https://docs.ceph.com/docs/mimic/radosgw/s3/) solution, if I could start from scratch.
+Concerning server-to-server communication: If you start from scratch, then you will use protocols like s3 to store and retrieve blobs. Avoid solutions which give you a filesystem over the network like ([Ceph](https://ceph.io/en/) or [GlusterFS](https://www.gluster.org/). Use s3 instead.
+
+Same for blockstorage over the network: Longhorn or Rook. Avoid it, use s3 for blobs and a cloud native database for data.
 
 # WebDAV
 
