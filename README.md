@@ -435,6 +435,10 @@ That has one big benefit: If client A starts an upload, and the upload gets inte
 
 I am happy that I don't have to use FTP in my current projects.
 
+## IPSec
+
+If you are starting from scratch today, I would not recommend using IPsec.
+
 ## Mirrors
 
 In the past, it was common to run a script that detects which mirror is the best for your particular internet connection. Of course, debian/ubuntu packages and other stuff still gets mirrored. But in most cases, it is not needed anymore.
